@@ -1,0 +1,6 @@
+[18-Oct-2019 16:01:11 UTC] PHP Warning:  require_once(/home/bettert2/public_html/bootstrap/app.php): failed to open stream: No such file or directory in /home/bettert2/public_html/artisan on line 20
+[18-Oct-2019 16:01:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/bettert2/public_html/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bettert2/public_html/artisan on line 20
+[18-Oct-2019 16:01:17 UTC] PHP Warning:  require_once(/home/bettert2/public_html/bootstrap/app.php): failed to open stream: No such file or directory in /home/bettert2/public_html/artisan on line 20
+[18-Oct-2019 16:01:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/bettert2/public_html/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bettert2/public_html/artisan on line 20
+[18-Oct-2019 16:01:22 UTC] PHP Warning:  require_once(/home/bettert2/public_html/bootstrap/app.php): failed to open stream: No such file or directory in /home/bettert2/public_html/artisan on line 20
+[18-Oct-2019 16:01:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/bettert2/public_html/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bettert2/public_html/artisan on line 20

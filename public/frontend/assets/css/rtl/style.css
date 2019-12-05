@@ -1,0 +1,52 @@
+.main-content {
+    float: left;
+}
+
+div.tab-pane ul li > div {
+    padding-right: 0;
+    padding-left: 17px;
+}
+
+span.star li {
+    float: right;
+}
+
+.dropdown-content {
+  right: 127px;
+}
+
+.dropdown-content .dropdown .dropdown-content{
+  right: 160px;
+}
+
+
+.dropdown-content li a:hover span {
+    color: #41a161 !important;
+}
+
+.person-about h4 i {
+    color: #41a161;
+    padding-left: 15px;
+    padding-right: 0;
+}
+
+.person-detail i {
+    padding-right: 0;
+    padding-left: 15px;
+}
+
+.person-detail p span:last-child {
+     padding-right: 15px; 
+     padding-left: 0; 
+}
+
+.watch_all_video {
+    padding: 1px 11px !important;
+    margin-left: 15px !important;
+}
+
+.section-li ul li {
+    border-right: 4px solid #41a161;
+    border-left: 0;
+}
+

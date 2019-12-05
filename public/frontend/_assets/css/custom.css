@@ -1,0 +1,9 @@
+.menuzord-menu.dark > li > a {
+    font-size: 15px!important;
+}
+
+@media screen and (max-width: 767px) {
+    .custom-caption {
+        top: 25%!important;
+    }
+}

@@ -1,0 +1,3034 @@
+{
+	"1": {
+		"en": "Email",
+		"ar": "البريد الإلكتروني"
+	},
+	"2": {
+		"en": "Password",
+		"ar": "كلمة المرور"
+	},
+	"3": {
+		"en": "Remember me",
+		"ar": "تذكير فى كل مرة"
+	},
+	"4": {
+		"en": "Login",
+		"ar": "الدخول"
+	},
+	"5": {
+		"en": "Forgot your password?",
+		"ar": "هل نسيت كلمة المرور؟"
+	},
+	"6": {
+		"en": "Reset a new password",
+		"ar": "تعيين كلمة مرور جديد"
+	},
+	"7": {
+		"en": "Reset Password",
+		"ar": "استعادة كلمة المرور"
+	},
+	"8": {
+		"en": "Keep me signed in",
+		"ar": "يمكنني تذكر كلمة المرور"
+	},
+	"slide_title": {
+		"en": "We're a Media Production",
+		"ar": "نتميز بالإنتاج الإعلامي"
+	},
+	"10": {
+		"en": "Your Email",
+		"ar": "إيميلك"
+	},
+	"11": {
+		"en": "Invalid username or password, Please try again",
+		"ar": "اسم المستخدم وكلمة المرور غير صحيحة, ارجوا المحاولة مرة أخرى"
+	},
+	"12": {
+		"en": "عربي",
+		"ar": "English"
+	},
+	"13": {
+		"en": "Content",
+		"ar": "المحتوى"
+	},
+	"14": {
+		"en": "Picture",
+		"ar": "الصورة"
+	},
+	"15": {
+		"en": "About Company",
+		"ar": "عن الشركة"
+	},
+	"16": {
+		"en": "Save Details",
+		"ar": "حفظ التفاصيل"
+	},
+	"17": {
+		"en": "Contact info",
+		"ar": "معلومات التواصل"
+	},
+	"18": {
+        "en": "Locations details",
+        "ar": "تفاصيل الموقع"
+    },
+	"19": {
+		"en": "Settings",
+		"ar": "الضبط"
+	},
+	"20": {
+		"en": "General Settings",
+		"ar": "ضبط الموقع"
+	},
+	"21": {
+		"en": "Website Title",
+		"ar": "عنوان الموقع"
+	},
+	"22": {
+		"en": "Website Description",
+		"ar": "وصف الموقع"
+	},
+	"23": {
+		"en": "Website Email",
+		"ar": "البريد الإلكتروني للموقع"
+	},
+	"24": {
+		"en": "Emails from your website in contact us form will be sent to this email address.",
+		"ar": "سوف يتم استقبال رسائل الشركاء على الإيميل المدخل أعلاه"
+	},
+	"25": {
+		"en": "Social Links",
+		"ar": "روابط التواصل"
+	},
+	"26": {
+		"en": "Twitter",
+		"ar": "تويتر"
+	},
+	"27": {
+		"en": "Instagram",
+		"ar": "الانستقرام"
+	},
+	"28": {
+		"en": "Facebook",
+		"ar": "الفيسبوك"
+	},
+	"29": {
+		"en": "Snapchat",
+		"ar": "السناب شات"
+	},
+	"30": {
+		"en": "Youtube",
+		"ar": "اليوتيوب"
+	},
+	"31": {
+		"en": "LinkedIn",
+		"ar": "LinkedIn"
+	},
+	"32": {
+		"en": "Website Message",
+		"ar": "رسالة الموقع"
+	},
+	"33": {
+		"en": "Status",
+		"ar": "الحالة"
+	},
+	"34": {
+		"en": "Enable",
+		"ar": "تفعيل"
+	},
+	"35": {
+		"en": "Disable",
+		"ar": "تعطيل"
+	},
+	"36": {
+		"en": "When Status </i> is Disabled client will see your contact info.",
+		"ar": "في حالة تعطيل حالة الموقع سوف يتمكن زوار الموقع التواصل عبر ايميل الموقع وحسابات التواصل الإجتماعي"
+	},
+	"37": {
+		"en": "Add service",
+		"ar": "إضافة خدمة"
+	},
+	"38": {
+		"en": "Title",
+		"ar": "العنوان"
+	},
+	"39": {
+		"en": "Service Title",
+		"ar": "عنوان الخدمة"
+	},
+	"40": {
+		"en": "Services List",
+		"ar": "قائمة الخدمات"
+	},
+	"41": {
+		"en": "S.No",
+		"ar": "الرقم"
+	},
+	"42": {
+		"en": "Action",
+		"ar": "الإجراء"
+	},
+	"43": {
+		"en": "Edit",
+		"ar": "تعديل"
+	},
+	"44": {
+		"en": "Delete",
+		"ar": "مسح"
+	},
+	"45": {
+		"en": "Are you sure you want to delete this record?",
+		"ar": "سوف يتم مسح البيانات هل انت متأكد؟"
+	},
+	"46": {
+		"en": "No Records",
+		"ar": "لا يوجد بيانات"
+	},
+	"47": {
+		"en": "Update Service",
+		"ar": "تحديث الخدمة"
+	},
+	"48": {
+		"en": "Add Category",
+		"ar": "اضافة قسم جديد"
+	},
+	"49": {
+		"en": "Category Title",
+		"ar": "عنوان القسم"
+	},
+	"50": {
+		"en": "Category List",
+		"ar": "قائمة الأقسام"
+	},
+	"51": {
+		"en": "Update Category",
+		"ar": "تحديث القسم"
+	},
+	"52": {
+		"en": "Add Portfolio",
+		"ar": "اضافة عمل "
+	},
+	"53": {
+		"en": "Video URL rules:",
+		"ar": "خطوات لإضافة فيديو"
+	},
+	"54": {
+		"en": "Copy video URL from youtube e.g: https://www.youtube.com/watch?v=QDgUMf3W-vw",
+		"ar": "انسخ رابط الفيديو من اليوتيوب"
+	},
+	"55": {
+		"en": "Replace watch?v=</span> with embed/</span> in the link.",
+		"ar": "استبدل (=watch?v) بــ (embed/) فى الرابط"
+	},
+	"56": {
+		"en": "Finally, video link should look like this. e.g: https://www.youtube.com/embed/QDgUMf3W-vw</span>",
+		"ar": "رابط الفيديو النهائي يجب أن يكون مثل (https://www.youtube.com/embed/QDgUMf3W-vw)"
+	},
+	"57": {
+		"en": "Copy the final URL and paste it in the text box and SAVE it.",
+		"ar": "انسخ الرابط النهائي وألصقه فى الخانة التالية ثم اضغط حفظ"
+	},
+	"58": {
+		"en": "Category",
+		"ar": "القسم"
+	},
+	"59": {
+		"en": "-- Select --",
+		"ar": " -- اختر --"
+	},
+	"60": {
+		"en": "Invalid verification code!",
+		"ar": "عفوا رمز التحقق غير صالح!"
+	},
+	"61": {
+		"en": "New Client Details",
+		"ar": "تفاصيل العميل الجديد"
+	},
+	"62": {
+		"en": "Update Portfolio",
+		"ar": "تحديث الأعمال "
+	},
+	"63": {
+		"en": "Add New Client",
+		"ar": "إضافة عميل جديد"
+	},
+	"64": {
+		"en": "Client title",
+		"ar": "عنوان العميل"
+	},
+	"65": {
+		"en": "Link",
+		"ar": "الرابط"
+	},
+	"66": {
+		"en": "Your account is either verified or the link is expired!",
+		"ar": "تم التحقق من حسابك أو صلاحية الرابط قد انتهت!"
+	},
+	"67": {
+		"en": "Partners List",
+		"ar": "قائمة الشركاء"
+	},
+	"68": {
+		"en": "Update Client Details",
+		"ar": "تحديث تفاصيل العميل"
+	},
+	"69": {
+		"en": "Please check your email to verify",
+		"ar": "من فضلك اضغط على الرابط المرسل للتحقق من الإيميل"
+	},
+	"70": {
+		"en": "Please check your email we have sent a verification link",
+		"ar": "فضلاً تأكد من بريدك الإلكتروني والضغط على الرابط المرسل للتحقق من حسابك"
+	},
+	"71": {
+		"en": "Job title",
+		"ar": "عنوان الوظيفة"
+	},
+	"72": {
+		"en": "Description",
+		"ar": "الوصف"
+	},
+	"73": {
+		"en": "Wish list",
+		"ar": "قائمة المفضلة"
+	},
+	"74": {
+		"en": "Remove",
+		"ar": "إزالة"
+	},
+	"75": {
+		"en": "Slides List",
+		"ar": "قائمة خلفية العرض"
+	},
+	"76": {
+		"en": "Update Slide",
+		"ar": "تحديث العرض"
+	},
+	"77": {
+		"en": "Slide title",
+		"ar": "العنوان "
+	},
+	"78": {
+		"en": "Add New Slide",
+		"ar": "إضافة صورة عرض جديدة"
+	},
+	"79": {
+		"en": "Add Slide",
+		"ar": "إضافة "
+	},
+	"80": {
+		"en": "Create User",
+		"ar": "انشاء مستخدم"
+	},
+	"81": {
+		"en": "Full name",
+		"ar": "الإسم الكامل"
+	},
+	"82": {
+		"en": "Email",
+		"ar": "البريد الإلكتروني"
+	},
+	"83": {
+		"en": "Password",
+		"ar": "كلمة المرور"
+	},
+	"84": {
+		"en": "Example: 123 or 123456",
+		"ar": "مثال: 123 أو 123456"
+	},
+	"85": {
+		"en": "Add User",
+		"ar": "إضافة مستخدم"
+	},
+	"86": {
+		"en": "Users List",
+		"ar": "قائمة المستخدمين"
+	},
+	"87": {
+		"en": "Profile",
+		"ar": "الملف الشخصي"
+	},
+	"88": {
+		"en": "My Profile",
+		"ar": "الملف الشخصي"
+	},
+	"89": {
+		"en": "Logout",
+		"ar": "تسجيل الخروج"
+	},
+	"90": {
+		"en": "Dashboard",
+		"ar": "رئيسية التحكم"
+	},
+	"91": {
+		"en": "Pages",
+		"ar": "الصفحات"
+	},
+	"total_branches": {
+		"en": "Total Branches",
+		"ar": "مجموع الفروع"
+	},
+	"93": {
+		"en": "Add New Service",
+		"ar": "إضاف خدمة "
+	},
+	"94": {
+		"en": "Manage Services",
+		"ar": "إدارة الخدمات"
+	},
+	"95": {
+		"en": "Latest services",
+		"ar": "آخر الأخبار"
+	},
+	"96": {
+		"en": "Add New Category",
+		"ar": "إضافة قسم جديدة"
+	},
+	"97": {
+		"en": "Manage Categories",
+		"ar": "إدارة الأقسام"
+	},
+	"98": {
+		"en": "Add New Portfolio",
+		"ar": "إضافة عمل جديد"
+	},
+	"99": {
+		"en": "Manage Portfolios",
+		"ar": "إدارة الأعمال"
+	},
+	"100": {
+		"en": "Profile Details",
+		"ar": "تفاصيل الملف الشخصي"
+	},
+	"101": {
+		"en": "Profile",
+		"ar": "الملف الشخصية"
+	},
+	"102": {
+		"en": "Verified",
+		"ar": "تم التحقق"
+	},
+	"103": {
+		"en": "Orders History",
+		"ar": "سجل الطلبات السابقة"
+	},
+	"104": {
+		"en": "Add New Career",
+		"ar": "اضافة وظيفة جديدة"
+	},
+	"105": {
+		"en": "Resturants",
+		"ar": "المطاعم"
+	},
+	"106": {
+		"en": "Manage Resturants",
+		"ar": "إدارة المطاعم"
+	},
+	"107": {
+		"en": "Background Slider",
+		"ar": "خلفية العرض الرئيسية"
+	},
+	"108": {
+		"en": "Contact",
+		"ar": "التواصل"
+	},
+	"109": {
+		"en": "User Management",
+		"ar": " المستخدمين"
+	},
+	"110": {
+		"en": "Add New User",
+		"ar": "إضافة مستخدم جديد"
+	},
+	"111": {
+		"en": "Manage Users",
+		"ar": "إدارة المستخدمين"
+	},
+	"112": {
+		"en": "Website Settings",
+		"ar": "ضبط الموقع"
+	},
+	"113": {
+		"en": "Total Products",
+		"ar": "مجموع المنتجات"
+	},
+	"114": {
+		"en": "Total Profolios",
+		"ar": "مجموع الأعمال"
+	},
+	"115": {
+		"en": "Visitors to the site",
+		"ar": "مجموع الزوار الفعلي للموقع"
+	},
+	"116": {
+		"en": "General Report for visitors",
+		"ar": "تقرير الزوار العام"
+	},
+	"117": {
+		"en": "Visits by geographical location",
+		"ar": "زوار حسب الموقع الجغرافي"
+	},
+	"118": {
+		"en": "Visits by browser",
+		"ar": "زوار حسب المتصفح"
+	},
+	"119": {
+		"en": "Sorry! an error occurred please try again later.",
+		"ar": "المعذرة! هنالك خطأ ارجوا المحاولة مرة أخرى"
+	},
+	"120": {
+		"en": "Contents updated successfully!",
+		"ar": "تم تحديث المحتوى بنجاح"
+	},
+	"121": {
+		"en": "New Record has been added!",
+		"ar": "تم الإضافة بنجاح"
+	},
+	"122": {
+		"en": "Record deleted successfully!",
+		"ar": "تم المسح بنجاح"
+	},
+	"123": {
+		"en": "New user has been created!",
+		"ar": "تم إضافة مستخدم جديد"
+	},
+	"124": {
+		"en": "Please select a category",
+		"ar": "من فضلك اختر القسم المناسب"
+	},
+	"125": {
+		"en": "Please type a category name",
+		"ar": "من فضلك اكتب ادخل عنوان القسم"
+	},
+	"126": {
+		"en": "Credentials updated!",
+		"ar": "تم التحديث البيانات بنجاح"
+	},
+	"127": {
+		"en": "Login to Control Panel",
+		"ar": "الدخول إلى لوحة التحكم"
+	},
+	"128": {
+		"en": "Portfolios Photo",
+		"ar": "صور الأعمال"
+	},
+	"129": {
+		"en": "Save Information",
+		"ar": "حفظ المعلومات"
+	},
+	"130": {
+		"en": "One Time Subscription",
+		"ar": "اشتراك لمرة واحدة "
+	},
+	"131": {
+		"en": "Plan Type",
+		"ar": "نوع الباقة"
+	},
+	"132": {
+		"en": "Add New Album",
+		"ar": "إضافة صورة"
+	},
+	"133": {
+		"en": "Manage Albums",
+		"ar": "إدارة الصور"
+	},
+	"134": {
+		"en": "View Appointments",
+		"ar": "عرض المواعيد"
+	},
+	"135": {
+		"en": "Search",
+		"ar": "البحث"
+	},
+	"136": {
+		"en": "Name",
+		"ar": "الإسم"
+	},
+	"137": {
+		"en": "Phone number",
+		"ar": "رقم الجوال"
+	},
+	"138": {
+		"en": "Manage Appointments",
+		"ar": "إدارة المواعيد"
+	},
+	"139": {
+		"en": "Filter Appointments",
+		"ar": "بحث متقدم"
+	},
+	"140": {
+		"en": "SEO Settings",
+		"ar": "ضبط محرك البحث"
+	},
+	"141": {
+		"en": "SEO Keyword",
+		"ar": "الكلمات الدالة"
+	},
+	"142": {
+		"en": "SEO Description",
+		"ar": "الوصف لمحرك البحث"
+	},
+	"143": {
+		"en": "Page Title",
+		"ar": "عنوان الصفحة"
+	},
+	"144": {
+		"en": "Add Album",
+		"ar": "إضافة الصور"
+	},
+	"145": {
+		"en": "Title",
+		"ar": "العنوان"
+	},
+	"146": {
+		"en": "Main Picture",
+		"ar": "الصورة"
+	},
+	"147": {
+		"en": "Add ",
+		"ar": "إضافة"
+	},
+	"148": {
+		"en": "Albums",
+		"ar": "ألبوم الصور"
+	},
+	"149": {
+		"en": "S.No",
+		"ar": "الرقم"
+	},
+	"150": {
+		"en": "Image",
+		"ar": "الصورة"
+	},
+	"151": {
+		"en": "Title",
+		"ar": "العنوان"
+	},
+	"152": {
+		"en": "Status",
+		"ar": "الحالة"
+	},
+	"153": {
+		"en": "Action",
+		"ar": "الإجراء"
+	},
+	"154": {
+		"en": "Edit",
+		"ar": "تعديل"
+	},
+	"155": {
+		"en": "Delete",
+		"ar": "حذف"
+	},
+	"156": {
+		"en": "Update Album",
+		"ar": "تحديث الصورة"
+	},
+	"157": {
+		"en": "Save changes",
+		"ar": "حفظ "
+	},
+	"158": {
+		"en": "Update Portfolio Details",
+		"ar": "تحديث الصورة"
+	},
+	"159": {
+		"en": "Portfolio list",
+		"ar": "قائمة الأعمال"
+	},
+	"160": {
+		"en": "Select ",
+		"ar": "اختر"
+	},
+	"161": {
+		"en": "Sub title",
+		"ar": "العنوان الفرعي"
+	},
+	"162": {
+		"en": "Textarea",
+		"ar": "الوصف"
+	},
+	"163": {
+		"en": "Description",
+		"ar": "الوصف"
+	},
+	"164": {
+		"en": "Portfolio Details",
+		"ar": "التفاصيل "
+	},
+	"165": {
+		"en": "Add Image",
+		"ar": "إضافة صورة"
+	},
+	"166": {
+		"en": "First name",
+		"ar": "الإسم الأول"
+	},
+	"167": {
+		"en": "Last name",
+		"ar": "الإسم الأخير"
+	},
+	"168": {
+		"en": "Add project details",
+		"ar": "إضافة تفاصيل العمل"
+	},
+	"169": {
+		"en": "Drop pictures here or click to upload a pictue",
+		"ar": "اسحب الصور إلى هنا أو أنقر لتحميل صورة"
+	},
+	"170": {
+		"en": "Edit Video",
+		"ar": "إضافة فيديو"
+	},
+	"171": {
+		"en": "Update",
+		"ar": "تحديث"
+	},
+	"172": {
+		"en": "Album List",
+		"ar": "قائمة الصور"
+	},
+	"173": {
+		"en": "Add More Images",
+		"ar": "إضافة المزيد"
+	},
+	"174": {
+		"en": "Update Image",
+		"ar": "تحديث الصورة"
+	},
+	"175": {
+		"en": "Main Picture",
+		"ar": "الصورة الرئيسية"
+	},
+	"176": {
+		"en": "Changes been made successfully!",
+		"ar": "تم حفظ التغييرات بنجاح!"
+	},
+	"177": {
+		"en": "Date",
+		"ar": "التاريخ"
+	},
+	"178": {
+		"en": "Add More Images",
+		"ar": "إضافة المزيد"
+	},
+	"179": {
+		"en": "Total Partners",
+		"ar": "مجموع الشركاء"
+	},
+	"180": {
+		"en": "Username",
+		"ar": "اسم المستخدم"
+	},
+	"181": {
+		"en": "Invalid username or password",
+		"ar": "اسم المستخدم أو كلمة المرور غير صحيحة"
+	},
+	"182": {
+		"en": "Google Plus",
+		"ar": "قوقل بلس"
+	},
+	"183": {
+		"en": "Please provide valid e-mail address",
+		"ar": "فضلاً قم باستخدام عنوان بريد إلكتروني فعلي"
+	},
+	"184": {
+		"en": "No account found with the specified mobile number",
+		"ar": "عفواً لا يوجد حساب برقم الجوال المدخل"
+	},
+	"185": {
+		"en": "Manage doctors",
+		"ar": "إدارة قائمة الدكاترة"
+	},
+	"186": {
+		"en": "Help & Support",
+		"ar": "المساعدة والدعم"
+	},
+	"187": {
+		"en": "F.A.Q",
+		"ar": "الأسئلة الشائعة"
+	},
+	"188": {
+		"en": "No account found with the specified email address",
+		"ar": "عفواً لا يوجد حساب بعنوان البريد المدخل"
+	},
+	"189": {
+		"en": "Nutrition",
+		"ar": "تغذية"
+	},
+	"190": {
+		"en": "Website sections",
+		"ar": "أقسام الموقع"
+	},
+	"191": {
+		"en": "Section Title",
+		"ar": "عنوان القسم"
+	},
+	"192": {
+		"en": "Manage job application",
+		"ar": "إدارة طلبات المتقدمين"
+	},
+	"193": {
+		"en": "Click Here To Verify",
+		"ar": "اضغط هنا للتحقق"
+	},
+	"194": {
+		"en": "Heart Rate Technology",
+		"ar": "تقنية معدل ضربات القلب"
+	},
+	"195": {
+		"en": "Our Workout",
+		"ar": "أنثى"
+	},
+	"Male": {
+		"en": "Male",
+		"ar": "ذكر"
+	},
+	"register_as_m": {
+		"en": "Register as member",
+		"ar": "تسجيل دخول العضو"
+	},
+	"196": {
+		"en": "Select nationality",
+		"ar": "اختر الجنسية"
+	},
+	"197": {
+		"en": "Select city",
+		"ar": "اختر المدينة"
+	},
+	"198": {
+		"en": "Select gender",
+		"ar": "اختر الجنس"
+	},
+	"199": {
+		"en": "Select job",
+		"ar": "اختر الوظيفة"
+	},
+	"200": {
+		"en": "Get Started",
+		"ar": "ابدأ الآن"
+	},
+	"201": {
+		"en": "National ID NO.",
+		"ar": "رقم الهوية"
+	},
+	"202": {
+		"en": "City",
+		"ar": "المدينة"
+	},
+	"203": {
+		"en": "Application list",
+		"ar": "قائمة المتقدمين"
+	},
+	"204": {
+		"en": "Update section title",
+		"ar": "تحديث عنوان القسم"
+	},
+	"205": {
+		"en": "Section sup-title",
+		"ar": "عنوان القسم الفرعي"
+	},
+	"206": {
+		"en": "Mobile number",
+		"ar": "رقم الجوال"
+	},
+	"207": {
+		"en": "We are differ",
+		"ar": "نحن نختلف عن الاخرين"
+	},
+	"208": {
+		"en": "Total Applications",
+		"ar": "جميع طلبات المتقدمين"
+	},
+	"209": {
+		"en": "Type",
+		"ar": "النوع"
+	},
+	"210": {
+		"en": "Birthdate",
+		"ar": "تاريخ الميلاد"
+	},
+	"211": {
+		"en": "My Tickets",
+		"ar": "تذاكري"
+	},
+	"212": {
+		"en": "Ticket No",
+		"ar": "رقم التذكرة"
+	},
+	"213": {
+		"en": "Please fill out this field",
+		"ar": "من فضلك ادخل نص"
+	},
+	"214": {
+		"en": "Ticket Details",
+		"ar": "تفاصيل التذكرة"
+	},
+	"215": {
+		"en": "Conversation",
+		"ar": "المحادثات"
+	},
+	"216": {
+		"en": "Phone",
+		"ar": "رقم الجوال"
+	},
+	"217": {
+		"en": "Book Now",
+		"ar": "اطلب موعد"
+	},
+	"218": {
+		"en": "Home",
+		"ar": "الرئيسية"
+	},
+	"219": {
+		"en": "About",
+		"ar": "من نحن؟"
+	},
+	"220": {
+		"en": "Request an Appointment",
+		"ar": "اطلب موعد الآن"
+	},
+	"244": {
+		"en": "Subject",
+		"ar": "عنوان الرسالة"
+	},
+	"228": {
+		"en": "Your email",
+		"ar": "البريد الإلكتروني"
+	},
+	"226": {
+		"en": "Your Number",
+		"ar": "رقم الجوال"
+	},
+	"245": {
+		"en": "Your Message",
+		"ar": "رسالتك"
+	},
+	"246": {
+		"en": "Send Message",
+		"ar": "ارسال الرسالة"
+	},
+	"247": {
+		"en": "عربي",
+		"ar": "English"
+	},
+	"243": {
+		"en": "Contact Information",
+		"ar": "معلومات التواصل"
+	},
+	"221": {
+		"en": "Verify Account",
+		"ar": "التحقق من الحساب"
+	},
+	"222": {
+		"en": "Showreel",
+		"ar": "الشوريل"
+	},
+	"223": {
+		"en": "Your account has been created successfully but its not activated we have sent an verification code to your phone number, please verify your account by entering that code in the below field.",
+		"ar": "تم انشاء الحساب بنجاح! فضلاً ادخل رمز التحقق المرسل إلى رقم الجوال من أجل التحقق من حسابك."
+	},
+	"248": {
+		"en": "All",
+		"ar": "الكل"
+	},
+	"249": {
+		"en": "Why you should choose us?",
+		"ar": "لماذا عليك اختيارنا؟"
+	},
+    "224":{
+	    "en": "Password should contain min 3 characters",
+	    "ar": "يجب أن تحتوي كلمة المرور على 3 حروف وأرقام مدخلة"
+    },
+    "230":{
+	    "en": "Password should not exceed more than 20 characters",
+	    "ar": "كلمة المرور يجب أن لا تتعدى 20 حرف أو رقم"
+    },
+	"232": {
+        "en": "Password and confirm password does not match",
+        "ar": "الأرقام السرية غير متطابقة"
+    },
+	"234": {
+		"en": "Country",
+		"ar": "الدولة"
+	},
+	"235": {
+		"en": "Change Password",
+		"ar": "إعادادات كلمة المرور"
+	},
+	"236": {
+		"en": "Gender",
+		"ar": "الجنس"
+	},
+	"239": {
+		"en": "Use valid email address",
+		"ar": "يجب استخدام عنوان بريد إلكتروني فعلي"
+	},
+	"242": {
+		"en": "Submit Application",
+		"ar": "تقديم الطلب"
+	},
+	"237": {
+		"en": "Make an enquiry",
+		"ar": "لدك استفسار؟"
+	},
+	"238": {
+		"en": "Female",
+		"ar": "أنثى"
+	},
+	"233": {
+		"en": "-- Select one --",
+		"ar": "-- أختر --"
+	},
+	"250": {
+		"en": "All copyrights reserved © 2014-",
+		"ar": "جميع الحقوق محفوظة © 2014 -"
+	},
+	"251": {
+		"en": "Powered by",
+		"ar": "برمجة وتصميم من قبل"
+	},
+	"252": {
+		"en": "Your application submitted successfully!",
+		"ar": "تم ارسال الطلب بنجاح!"
+	},
+	"253": {
+		"en": "Your request submitted successfully!",
+		"ar": "تم ارسال الطلب بنجاح!"
+	},
+	"254": {
+		"en": "Your email submitted successfully, Thank you!",
+		"ar": "تم ارسال الرسالة بنجاح!"
+	},
+	"255": {
+		"en": "Error! While processing your request! Please try again later",
+		"ar": "حدث خطأ أثناء عملية الإرسال! من فضلك حاول مرة أخرى"
+	},
+	"241": {
+		"en": "We have sent reset password link to your email, Kindly check your email and reset your password by clicking on the link.",
+		"ar": "تم ارسال كلمة مرور مؤقتة إلى رقم جوالك, من فضلك استخدم كلمة المرور المرسلة عند الدخول إلى حسابك"
+	},
+	"225": {
+		"en": "EX :  Khalid Abdulaziz",
+		"ar": "مثال: خالد عبدالعزيز"
+	},
+	"256": {
+		"en": "EX :  0501234567",
+		"ar": "مثال: 0501234567"
+	},
+	"229": {
+		"en": "EX :  youremail@mail.com",
+		"ar": "مثال: youremail@mail.com"
+	},
+	"231": {
+		"en": "EX :  20-03-1990",
+		"ar": "مثال: 20-03-1990"
+	},
+	"240": {
+		"en": "Resturant Name",
+		"ar": "اسم المطعم"
+	},
+	"257": {
+		"en": "Help & support",
+		"ar": "المساعدة والدعم"
+	},
+	"258": {
+		"en": "e.g: issue in settings",
+		"ar": "عنوان"
+	},
+	"259": {
+		"en": "Take help from",
+		"ar": "توجيه الرسالة إلى قسم"
+	},
+	"260": {
+		"en": "Your Message",
+		"ar": "رسالتك"
+	},
+	"261": {
+		"en": "Send",
+		"ar": "ارسال"
+	},
+	"262": {
+		"en": "Drag & drop a picture",
+		"ar": "اسحب الصورة إلى هذه الخانة"
+	},
+	"263": {
+		"en": "or",
+		"ar": "أو"
+	},
+	"264": {
+		"en": "Click here",
+		"ar": "اضغط هنا لإستعراض الصورة"
+	},
+	"265": {
+		"en": "Thank you! We have received your request we will look into your problem and will respond to your request soon.",
+		"ar": "شكراً لقد تم استلام طلبك وسيتم التواصل معك قريباً."
+	},
+	"266": {
+		"en": "Error! Error occurred while processing your request, please try again.",
+		"ar": "حدث خطأ ما أثناء عملية الطلب ارجوا المحاولة مرة أخرى"
+	},
+	"267": {
+		"en": "Marketing and sales",
+		"ar": "التسويق والمبيعات"
+	},
+	"268": {
+		"en": "Accounting and finance",
+		"ar": "المحاسبة المالية"
+	},
+	"269": {
+		"en": "Technical Support",
+		"ar": "الدعم الفني"
+	},
+	"270": {
+		"en": "Others",
+		"ar": "أخرى"
+	},
+	"271": {
+		"en": "Slider Caption",
+		"ar": "عبارة للخلفية"
+	},
+	"272": {
+		"en": "Slider Caption (optional)",
+		"ar": "عبارة للخلفية (اختياري)"
+	},
+	"273": {
+		"en": "Link",
+		"ar": "الرابط"
+	},
+	"274": {
+		"en": "Link (optional)",
+		"ar": "رابط آخر (اختياري)"
+	},
+	"275": {
+		"en": "Register",
+		"ar": "التسجيل"
+	},
+	"276": {
+		"en": "Type your reply to the user",
+		"ar": "خانة الرد على العميل"
+	},
+	"277": {
+		"en": "Reply",
+		"ar": "الرد"
+	},
+	"278": {
+		"en": "Password should be greate than 3 characters",
+		"ar": "يجب أن يحتوي الموقع على ٣ حروف أو أرقام فأكثر"
+	},
+	"279": {
+		"en": "Website Status",
+		"ar": " حالة الموقع"
+	},
+	"280": {
+		"en": "New",
+		"ar": " جديد"
+	},
+	"281": {
+		"en": "Subscribe for Free (Demo)",
+		"ar": " اشترك مجاناً (تجربة) "
+	},
+	"282": {
+		"en": " Processing",
+		"ar": " جاري المعالجة "
+	},
+	"283": {
+		"en": " Hold",
+		"ar": " معلق "
+	},
+	"284": {
+		"en": " We have sent an email regarding reset password, Kindly check your email.",
+		"ar": " تم ارسال بريد إلكتروني لإستعادة كلمة المرور فضلا تحقق من بريدك"
+	},
+	"285": {
+		"en": "User Role",
+		"ar": "دور المستخدم"
+	},
+	"286": {
+		"en": "Is Admin",
+		"ar": "كمسؤول نظام"
+	},
+	"287": {
+		"en": "An account with this email already exists",
+		"ar": "عفواً هذا الحساب مستخدم بنفس الإيميل من قبل"
+	},
+	"288": {
+		"en": "An account with this phone number already exists",
+		"ar": "عفوا يوجد حساب برقم هذا الجوال"
+	},
+	"289": {
+		"en": "Code cannot be sent due to an error!",
+		"ar": "عفوا لم يتم ارسال رمز التحقق بسبب خطأ ما"
+	},
+	"290": {
+		"en": "Create account",
+		"ar": "انشاء حساب"
+	},
+	"291": {
+		"en": "Error occured while processing your email, please try again later.",
+		"ar": "هنالك خطأ ما حدث أذناء عملية ادخال بريدك فضلاً حاول مرة اخرى"
+	},
+	"292": {
+		"en": "Login/Register",
+		"ar": "التسجيل/الدخول"
+	},
+	"293": {
+		"en": "Add to cart ",
+		"ar": "اضافة إلى السلة "
+	},
+	"294": {
+		"en": "Background Color",
+		"ar": "لون الخلفية"
+	},
+	"295": {
+		"en": "Text Color",
+		"ar": "نص اللون"
+	},
+	"296": {
+		"en": "Background Picture",
+		"ar": "خلفية الصورة"
+	},
+	"297": {
+		"en": "Website Logs",
+		"ar": "سجل الموقع"
+	},
+	"298": {
+		"en": "IP Address",
+		"ar": "IP عنوان ال"
+	},
+	"299": {
+		"en": "Products",
+		"ar": "المنتجات"
+	},
+	"300": {
+		"en": "Product List",
+		"ar": "قائمة المنتجات"
+	},
+	"301": {
+		"en": "Add New Product",
+		"ar": "اضافة منتج جديد"
+	},
+	"302": {
+		"en": "Product Quantity",
+		"ar": "كمية المنتج"
+	},
+	"303": {
+		"en": "Product Price",
+		"ar": "سعر المنتج"
+	},
+	"304": {
+		"en": "Save Product Details",
+		"ar": "حفظ تفاصيل المنتج"
+	},
+	"305": {
+		"en": "Product Details",
+		"ar": "تفاصيل المنتجات"
+	},
+	"306": {
+		"en": "Update Product",
+		"ar": "تحديث المنتج"
+	},
+	"307": {
+		"en": "Less than",
+		"ar": "أقل من"
+	},
+	"308": {
+		"en": "-- Select Category --",
+		"ar": "-- اختر قسم --"
+	},
+	"309": {
+		"en": "-- Select city --",
+		"ar": "-- اختر المدينة  --"
+	},
+	"310": {
+		"en": "-- Select Unit --",
+		"ar": "-- اختر وحدة --"
+	},
+	"311": {
+		"en": "Product Name",
+		"ar": "اسم المنتج"
+	},
+	"312": {
+		"en": "Product Description",
+		"ar": "وصف المنتج"
+	},
+	"313": {
+		"en": "Product Unit",
+		"ar": "وحدة المنتج"
+	},
+	"314": {
+		"en": "Delete Record",
+		"ar": "حذف"
+	},
+	"315": {
+		"en": "Page Settings",
+		"ar": "ضبط الصفحة"
+	},
+	"316": {
+		"en": "Product Amount",
+		"ar": "تكلفة المنتج"
+	},
+	"317": {
+		"en": "Categories",
+		"ar": "الأقسام"
+	},
+	"318": {
+		"en": "e.g: 50g or 2 (means 2 items)",
+		"ar": "مثال: 50 جرام أو 2 (بمعنى صنفيين)"
+	},
+	"319": {
+		"en": "You have already given review on this product.",
+		"ar": "عفوا لقد قمت بتقييم هذا المستخدم من قبل"
+	},
+	"320": {
+		"en": "The maximum keywords accepted are 24 word",
+		"ar": "الحد الأقصى للكلمات الدالة هو 24 كلمة"
+	},
+	"321": {
+		"en": "Search Location",
+		"ar": "البحث عن موقع "
+	},
+	"322": {
+		"en": "Set Flag",
+		"ar": "اختيار علم"
+	},
+	"323": {
+		"en": "Download File",
+		"ar": "تحميل ملف"
+	},
+	"324": {
+		"en": "View Details",
+		"ar": "عرض التفاصيل"
+	},
+	"325": {
+		"en": "View Answers",
+		"ar": "عرض الأجوبة"
+	},
+	"326": {
+		"en": "Filter Products",
+		"ar": "بحث متقدم"
+	},
+	"327": {
+		"en": "Quantity",
+		"ar": "الكمية"
+	},
+	"328": {
+		"en": "Equal to",
+		"ar": "يساوي"
+	},
+	"329": {
+		"en": "Less than",
+		"ar": "أقل من "
+	},
+	"330": {
+		"en": "More than",
+		"ar": "أكثر من"
+	},
+    "331":{
+	    "en": "Please write something to review.",
+	    "ar": "من فضلك ادخل نص التعليق"
+    },
+	"332": {
+		"en": "Reviews on this product",
+		"ar": "تقييم هذا المنتج"
+	},
+	"333": {
+		"en": "Incorrect Old Password",
+		"ar": "كلمة المرور القديمة غير صحيحة"
+	},
+	"334": {
+		"en": "Website Language",
+		"ar": "لغة الموقع"
+	},
+	"335": {
+		"en": "Both",
+		"ar": "الكل"
+	},
+	"336": {
+		"en": "English",
+		"ar": "الإنجليزية"
+	},
+	"337": {
+		"en": "Arabic",
+		"ar": "العربية"
+	},
+	"338": {
+		"en": "Total Products",
+		"ar": "مجموع المنتجات"
+	},
+	"339": {
+		"en": "Old Password",
+		"ar": "كلمة المرور القديمة"
+	},
+	"340": {
+		"en": "New Password",
+		"ar": "كلمة المرور الجديدة"
+	},
+	"341": {
+		"en": "Confirm Password",
+		"ar": "تأكيد كلمة المرور"
+	},
+	"342": {
+		"en": "To change picture drag & drop picture here",
+		"ar": "اسحب الصورة الجديدة هنا"
+	},
+	"343": {
+		"en": "Price",
+		"ar": "السعر"
+	},
+	"344": {
+		"en": "Available",
+		"ar": "متوفر"
+	},
+	"345": {
+		"en": "Not Available",
+		"ar": "غير متوفر"
+	},
+	"346": {
+		"en": "Orders List",
+		"ar": "قائمة الطلبات"
+	},
+	"347": {
+		"en": "Filter Orders",
+		"ar": "البحث المتقدم"
+	},
+	"348": {
+		"en": "Order Number",
+		"ar": "رقم الطلب"
+	},
+	"349": {
+		"en": "-- Select Status --",
+		"ar": "-- اختر حالة --"
+	},
+	"350": {
+		"en": "Customer name",
+		"ar": "اسم العميل"
+	},
+	"351": {
+		"en": "Order details",
+		"ar": "تفاصيل الطلب"
+	},
+	"352": {
+		"en": "Orders",
+		"ar": "الطلبات"
+	},
+	"353": {
+		"en": "Order Status",
+		"ar": "حالة الطلب"
+	},
+	"354": {
+		"en": "Notes",
+		"ar": "الملاحظات"
+	},
+	"355": {
+		"en": "Grand Total",
+		"ar": "مجموع الطلب"
+	},
+	"356": {
+		"en": "Order Date",
+		"ar": "وقت الطلب"
+	},
+	"357": {
+		"en": "Sub-Total",
+		"ar": "المجموع"
+	},
+	"358": {
+		"en": "Change Status",
+		"ar": "تغيير الحالة"
+	},
+	"359": {
+		"en": "Total Price",
+		"ar": "مجموع الأسعار"
+	},
+	"360": {
+		"en": "Order status has been changed!",
+		"ar": "تم تغيير خالة الطلب!"
+	},
+	"361": {
+		"en": "Total Orders",
+		"ar": "مجموع الطلبات"
+	},
+	"362": {
+		"en": "Total Views",
+		"ar": "مجموع العرض"
+	},
+	"363": {
+		"en": "Total Sales",
+		"ar": "مجموع المبيعات"
+	},
+	"364": {
+		"en": "Phone number should contain exactly 10 digits",
+		"ar": "يجب أن لا يزيد رقم التواصل أكثر 10 أرقام"
+	},
+	"365": {
+		"en": "Thank you",
+		"ar": "شكراُ لك"
+	},
+	"366": {
+		"en": "Product Pictures",
+		"ar": "صور المنتج"
+	},
+	"367": {
+		"en": "Rating",
+		"ar": "تقييم"
+	},
+	"368": {
+		"en": "Members",
+		"ar": "الأعضاء"
+	},
+	"369": {
+		"en": "Members List",
+		"ar": "قائمة الأعضاء"
+	},
+	"370": {
+		"en": "Filter Members",
+		"ar": "البحث المتقدم"
+	},
+	"371": {
+		"en": "Address",
+		"ar": "العنوان"
+	},
+	"372": {
+		"en": "Edit Customer",
+		"ar": "تعديل بيانات العميل"
+	},
+	"373": {
+		"en": "Reveiw",
+		"ar": "تقييم"
+	},
+	"374": {
+		"en": "Yes",
+		"ar": "نعم"
+	},
+	"375": {
+		"en": "No",
+		"ar": "لا"
+	},
+	"376": {
+		"en": "Products Reviews",
+		"ar": "تقييم المنتجات"
+	},
+	"377": {
+		"en": "New Orders",
+		"ar": "طلبات جديدة"
+	},
+	"378": {
+		"en": "Delivered Orders",
+		"ar": "طلبات تم توصيلها"
+	},
+	"379": {
+		"en": "Store Worth",
+		"ar": "القيمة"
+	},
+	"380": {
+		"en": "Total Sales",
+		"ar": "مجموع الشركاء"
+	},
+	"381": {
+		"en": "Total Income",
+		"ar": "مجموع الوارد"
+	},
+	"382": {
+		"en": "Most Ordered Products",
+		"ar": "المنتجات الأكثر طلباً"
+	},
+	"383": {
+		"en": "Most Viewed Products",
+		"ar": "المنتجات الأكثر مشاهدة"
+	},
+	"384": {
+		"en": "Terms and conditions",
+		"ar": "الشروط والأحكام"
+	},
+	"385": {
+		"en": "Click to read terms and conditions",
+		"ar": "اضغط لقراءة الشروط والأحكام"
+	},
+	"386": {
+		"en": "Package plans",
+		"ar": "الباقات"
+	},
+	"387": {
+		"en": "Add Subscription",
+		"ar": "إضافة باقة"
+	},
+	"388": {
+		"en": "Subscription Name",
+		"ar": "اسم الباقة"
+	},
+	"389": {
+		"en": "Subscription Type",
+		"ar": "نوع الباقة"
+	},
+	"390": {
+		"en": "Mobile number",
+		"ar": "رقم الجوال"
+	},
+	"391": {
+		"en": "Send SMS",
+		"ar": "ارسال SMS"
+	},
+	"392": {
+		"en": "SMS Log",
+		"ar": "سجل SMS "
+	},
+	"393": {
+		"en": "SMS",
+		"ar": "الرسائل النصية SMS"
+	},
+	"394": {
+		"en": "SMS sent successfully!",
+		"ar": "تم ارسال الرسالة بنجاح!"
+	},
+	"395": {
+		"en": "SMS Sent Log",
+		"ar": "سجل الرسائل المرسلة"
+	},
+	"396": {
+		"en": "Send By",
+		"ar": "تم الإرسال بواسطة"
+	},
+	"397": {
+		"en": "Category Icon",
+		"ar": "الشعار"
+	},
+	"398": {
+		"en": "Our Vision",
+		"ar": "رؤيتنا"
+	},
+	"399": {
+		"en": "Our Mission",
+		"ar": "مهمتنا"
+	},
+	"400": {
+		"en": "Our Values",
+		"ar": "قيمنا"
+	},
+	"401": {
+		"en": "Your profit",
+		"ar": "مقدار الربح"
+	},
+	"402": {
+		"en": "Sub Categories List",
+		"ar": "قائمة الفئات الفرعية"
+	},
+	"403": {
+		"en": "Add Sub Category",
+		"ar": "اضافة قسم فرعي"
+	},
+	"404": {
+		"en": " To ",
+		"ar": " إلى "
+	},
+	"405": {
+		"en": "Reset Password",
+		"ar": "استعادة كلمة المرور"
+	},
+	"406": {
+		"en": "Update User",
+		"ar": "تحديث المستخدم"
+	},
+	"407": {
+		"en": "Video Link",
+		"ar": "رابط الفيديو"
+	},
+	"408": {
+		"en": "Account Status",
+		"ar": "حالة الحساب"
+	},
+	"409": {
+		"en": "Subscription Plans",
+		"ar": "خطط الإشتراك"
+	},
+	"410": {
+		"en": "Add Plan",
+		"ar": "إضافة باقة جديدة"
+	},
+	"411": {
+		"en": "Plan ",
+		"ar": "الباقة "
+	},
+	"412": {
+		"en": "Subscription Plans",
+		"ar": " قائمة الباقات"
+	},
+	"413": {
+		"en": "Plan Name",
+		"ar": "اسم الباقة"
+	},
+	"414": {
+		"en": "No of Downloads",
+		"ar": "الحد الأقصى للتحميلات"
+	},
+	"415": {
+		"en": "Plan Price",
+		"ar": "سعر الباقة"
+	},
+	"416": {
+		"en": "Update Subcription",
+		"ar": "تحديث الإشتراك / الباقة"
+	},
+	"417": {
+		"en": "Update Plan",
+		"ar": "تحديث الباقة"
+	},
+	"418": {
+		"en": "eg. https://www.example.com",
+		"ar": "مثال: https://www.example.com"
+	},
+	"418": {
+		"en": "eg. STC logo",
+		"ar": "مثال: شعار STC"
+	},
+	"419": {
+		"en": "New Services Details",
+		"ar": "تفاصيل الخدمة الجديدة"
+	},
+	"420": {
+		"en": "Product Title",
+		"ar": "عنوان المنتج"
+	},
+	"421": {
+		"en": "Product details",
+		"ar": "تفاصيل المنتج"
+	},
+	"422": {
+		"en": "Subscription",
+		"ar": " الإشتراك"
+	},
+	"423": {
+		"en": "Subscription",
+		"ar": "الإشتراك / الباقة"
+	},
+	"424": {
+		"en": "Images",
+		"ar": "الصور"
+	},
+	"425": {
+		"en": "month",
+		"ar": "شهر"
+	},
+	"426": {
+		"en": "Buy Now",
+		"ar": "شراء الآن"
+	},
+	"427": {
+		"en": "year",
+		"ar": "سنة"
+	},
+	"428": {
+		"en": "You have been successfully subscribed <br> Your subscription expirey date is <b>%s</b> <br> You can check your subscription history in account dashboard",
+		"ar": "تم الإشتراك بنجاح <br> تاريخ انتهاء اشتراكك في <b>%s</b> يمكنك مراجعة سجل اشتراكاتك السابقة من خلال لوحة التحكم الرئيسية"
+	},
+	"429": {
+		"en": "Monthly",
+		"ar": "شهر"
+	},
+	"430": {
+		"en": "Download Failed! Your subscription doesn't have enough balance to download this picture",
+		"ar": "فشل أثناء التحميل! ليس لديك رصيد كافي لتحميل هذه الصورة نرجوا تحديث الباقة"
+	},
+	"431": {
+		"en": "Click here to renew you subscription",
+		"ar": "اضغط هنا لتجديد الباقة"
+	},
+	"432": {
+		"en": "Download Failed! Your subscription download limit has been reached, you need to renew your subscription",
+		"ar": "فشل في التحميل! لقد وصلت الحد الأقصى للتحميل, فضلاً قم بتجديد الباقة"
+	},
+	"433": {
+		"en": "You need to subscribe to either of the plans to download paid images",
+		"ar": "عفوا يجب الإشتراك في واحدة من الباقات المتوفرة أدناه لتتمكن من تحميل الصور المدفوعة مسبقاً"
+	},
+	"434": {
+		"en": "Your password has been changed successfully, login with your new password",
+		"ar": "تم تغيير كلمة المرور بنجاح يمكنك استخدام كلمة المرور الجديدة"
+	},
+	"435": {
+		"en": "Your Subscription",
+		"ar": "معلومات الإشتراك / الباقة"
+	},
+	"436": {
+		"en": "Currently you don't have any subscription",
+		"ar": "!لا يوجد لديك آي اشتراكات حالياً"
+	},
+	"437": {
+		"en": "Start Date",
+		"ar": "تاريخ بدء الإشتراك"
+	},
+	"438": {
+		"en": "Expirey Date",
+		"ar": "تاريخ انتهاء الإشتراك"
+	},
+	"439": {
+		"en": "Remaining Balance",
+		"ar": "الرصيد المتبقي"
+	},
+	"440": {
+		"en": "Remaining Downloads",
+		"ar": "التحميلات المتبقية"
+	},
+	"441": {
+		"en": "Categories",
+		"ar": "الأقسام"
+	},
+	"442": {
+		"en": "New Project Details",
+		"ar": " تفاصيل المشروع الجديد"
+	},
+	"443": {
+		"en": "Clients",
+		"ar": "العملاء"
+	},
+	"444": {
+		"en": "Careers",
+		"ar": " وظائف"
+	},
+	"445": {
+		"en": "Partners",
+		"ar": "الشركاء"
+	},
+	"446": {
+		"en": "Learn More",
+		"ar": "أعرف المزيد"
+	},
+	"447": {
+		"en": "Edit Product",
+		"ar": "تعديل المنتج"
+	},
+	"448": {
+		"en": "Delete Product",
+		"ar": "حذف المنتج"
+	},
+	"449": {
+		"en": "Add new question",
+		"ar": "إضافة سؤال جديد"
+	},
+	"450": {
+		"en": "No Data",
+		"ar": "لا يوجد بيانات"
+	},
+	"451": {
+		"en": "Question",
+		"ar": "الأسئلة"
+	},
+	"452": {
+		"en": "Answer",
+		"ar": "الإجابة"
+	},
+	"453": {
+		"en": "Update Question",
+		"ar": "تحديث الأسئلة"
+	},
+	"434": {
+		"en": "Your password has been changed successfully, login with your new password",
+		"ar": "تم تغيير كلمة المرور بنجاح يمكنك استخدام كلمة المرور الجديدة"
+	},
+	"466": {
+		"en": "Are you sure you want to change the status of this customer ?",
+		"ar": "هل أنت متأكد من أنك تريد تغيير حالة الطلب؟"
+	},
+	"486": {
+		"en": "Account Email Verification",
+		"ar": "التحقق من صحة البريد الإلكتروني للحساب"
+	},
+	"487": {
+		"en": "Password Reset Request",
+		"ar": "طلب استعادة كلمة المرور"
+	},
+	"NotVerified": {
+		"en": "Not Verified",
+		"ar": "لم يتم التحقق "
+	},
+	"Verified": {
+		"en": "Verified",
+		"ar": "تم التحقق"
+	},
+	"Pending": {
+		"en": "Pending",
+		"ar": "قيد الانتظار"
+	},
+	"480": {
+		"en": "SAR",
+		"ar": "الريال"
+	},
+	"488": {
+		"en": "OR",
+		"ar": "أو"
+	},
+	"489": {
+		"en": "Email Body",
+		"ar": "هيئة البريد الإلكتروني"
+	},
+	"490": {
+		"en": "Email Attachment",
+		"ar": "مرفق البريد الالكتروني"
+	},
+	"491": {
+		"en": "Professionals",
+		"ar": "المهنيين"
+	},
+	"492": {
+		"en": "Next",
+		"ar": "التالي"
+	},
+	"493": {
+		"en": "Confirm Payment",
+		"ar": "تأكيد عملية الدفع"
+	},
+	"494": {
+		"en": "Thank you for your subscription. Please check your email now. See you champion",
+		"ar": "عزيزي المشترك نود إبلاغك بأنه تم استلام مبلغ الاشتراك وتم تفعيل اشتراكك. نشوفك اليوم يا بطل"
+	},
+	"495": {
+		"en": "Update Job Details",
+		"ar": "تحديث تفاصيل الوظيفة"
+	},
+	"496": {
+		"en": "New News Details",
+		"ar": "تفاصيل الخبر الجديد"
+	},
+	"497": {
+		"en": "eg. Cabinet Approves Kingdom of Saudi Arabia s Vision 2030",
+		"ar": "مثال: مجلس الوزراء يوافق على رؤية المملكة العربية السعودية 2030"
+	},
+	"498": {
+		"en": "Product weight",
+		"ar": "وزن المنتج"
+	},
+	"499": {
+		"en": "City Name",
+		"ar": "اسم الفرع"
+	},
+	"500": {
+		"en": "Main Cover",
+		"ar": "خلفية رئيسية"
+	},
+	"501": {
+		"en": "News",
+		"ar": "الأخبار"
+	},
+	"517": {
+		"en": "Choose Position",
+		"ar": "اختر وظيفة"
+	},
+	"518": {
+		"en": "Portfolio Link",
+		"ar": "رابط أعمالك"
+	},
+	"519": {
+		"en": "Attach CV",
+		"ar": "إرفاق السيرة الذاتية"
+	},
+	"520": {
+		"en": "(PDF only)",
+		"ar": "(صيغة PDF)"
+	},
+	"521": {
+		"en": "Enter your nationality",
+		"ar": "ما هي جنسيتك"
+	},
+	"522": {
+		"en": "Enter your city",
+		"ar": "ادخل المدينة"
+	},
+	"523": {
+		"en": "To ensure your CV is compatible with all devices, please use PDF type files",
+		"ar": "لضمان عرض السيرة الذاتية الخاصة بك على جميع الاجهزة بفضل استخدام ملفات نوع PDF"
+	},
+	"524": {
+		"en": " Check out some of our thinking",
+		"ar": " بعضاً من أخبارنا المميزة"
+	},
+	"525": {
+		"en": "Download File",
+		"ar": "تحميل ملف"
+	},
+	"526": {
+		"en": "Application Details",
+		"ar": "تفاصيل التطبيق"
+	},
+	"527": {
+		"en": "Applied For Job",
+		"ar": "تقديم على الوظيفة"
+	},
+	"528": {
+		"en": "Applied date",
+		"ar": "تاريخ التقديم"
+	},
+	"529": {
+		"en": "Total Archived Applications",
+		"ar": "مجموع الطلبات المأرشفة"
+	},
+	"530": {
+		"en": "Manage job application",
+		"ar": "إدارة طلبات المتقدمين"
+	},
+	"531": {
+		"en": "Filter applicants",
+		"ar": "بحث متقدم"
+	},
+	"656": {
+		"en": "SMTP Credentials",
+		"ar": "تفاصيل SMTP"
+	},
+	"657": {
+		"en": "News Categories",
+		"ar": "قسم الأخبار"
+	},
+	"658": {
+		"en": "News List",
+		"ar": "قائمة الأخبار"
+	},
+	"659": {
+		"en": "Add New News",
+		"ar": "إضافة خبر جديد"
+	},
+	"660": {
+		"en": "Update News",
+		"ar": "تحديث الخبر"
+	},
+	"661": {
+		"en": "Projects",
+		"ar": "المشاريع"
+	},
+	"662": {
+		"en": "Project List",
+		"ar": "قائمة المشاريع"
+	},
+	"663": {
+		"en": "Add New Project",
+		"ar": "إضافة مشروع جديد"
+	},
+	"664": {
+		"en": "Add Project",
+		"ar": "إضافة مشروع"
+	},
+	"665": {
+		"en": "Project Pictures",
+		"ar": "صور المشروع"
+	},
+	"666": {
+		"en": "Update Project Details",
+		"ar": "تحديث تفاصيل المشروع"
+	},
+	"667": {
+		"en": "Filter Projects",
+		"ar": "البحث المتقدم"
+	},
+	"668": {
+		"en": "Start date ",
+		"ar": "تاريخ البداية "
+	},
+	"669": {
+		"en": "End date ",
+		"ar": "تاريخ النهاية"
+	},
+	"670": {
+		"en": "Total Days",
+		"ar": "مجموع الأيام"
+	},
+	"671": {
+		"en": "Email to subscribers",
+		"ar": "الرسائل البريدية للمشتركين"
+	},
+	"672": {
+		"en": "Subscribers",
+		"ar": "قائمة المشتركين"
+	},
+	"673": {
+		"en": "Send to all subscribers ",
+		"ar": "ارسال الى جميع المشتركين"
+	},
+	"674": {
+		"en": "Email Message",
+		"ar": "محتوى الرسالة"
+	},
+	"675": {
+		"en": "Email Subject",
+		"ar": "عنوان الرسالة"
+	},
+	"676": {
+		"en": "OR",
+		"ar": "أو"
+	},
+	"677": {
+		"en": "Email has been sent successfully to subscribers",
+		"ar": "تم ارسال الرسالة للمشتركين بنجاح"
+	},
+	"678": {
+		"en": "Email Attachment",
+		"ar": "ارفاق صورة"
+	},
+	"679": {
+		"en": "Notification Sent successfully",
+		"ar": "تم ارسال التنبيه بنجاح!"
+	},
+	"680": {
+		"en": "Send Notifications",
+		"ar": "ارسال تنبيه"
+	},
+	"681": {
+		"en": "Notification Title",
+		"ar": "عنوان التنبيه"
+	},
+	"682": {
+		"en": "Notification Body",
+		"ar": "محتوى الرسالة"
+	},
+	"683": {
+		"en": "Send Email To",
+		"ar": "ارسال بريد إلى"
+	},
+	"684": {
+		"en": "All Members",
+		"ar": "كل الأعضاء"
+	},
+	"685": {
+		"en": "All Normal Users",
+		"ar": " كل الشركاء"
+	},
+	"686": {
+		"en": "Send Email Notification",
+		"ar": "الرسائل البريدية"
+	},
+	"687": {
+		"en": "Telegram",
+		"ar": "تلغرام"
+	},
+	"688": {
+		"en": "Cancel",
+		"ar": "إلغاء"
+	},
+	"689": {
+		"en": "New Career Details",
+		"ar": "تفاصيل الوظيفة الجديدة"
+	},
+	"690": {
+		"en": "9Round",
+		"ar": "الجولة التاسعة"
+	},
+	"692": {
+		"en": "All Members",
+		"ar": "جميع الشركاء"
+	},
+	"693": {
+		"en": "Send SMS Notification",
+		"ar": "ارسال تنبيه SMS"
+	},
+	"Action": {
+		"en": "Action",
+		"ar": "الإجراء"
+	},
+	"New": {
+		"en": "New",
+		"ar": "جديد"
+	},
+	"Registered": {
+		"en": "Registered",
+		"ar": "التسجيل"
+	},
+	"Processing": {
+		"en": "Processing",
+		"ar": "جاري المعالجة"
+	},
+	"Hold": {
+		"en": "Hold",
+		"ar": "معلق"
+	},
+	"Archive": {
+		"en": "Archive",
+		"ar": "الأرشيف"
+	},
+	"694": {
+		"en": "eg. Accountant",
+		"ar": "مثال: محاسب مالي"
+	},
+	"695": {
+		"en": "eg. Manage Branches",
+		"ar": "مثال: تنظيم الفروع"
+	},
+	"696": {
+		"en": "Join the Competition",
+		"ar": "انضم الى المنافسة"
+	},
+	"697": {
+		"en": "Suggest an Event",
+		"ar": "اقترح فعالية"
+	},
+	"698": {
+		"en": "Get Started",
+		"ar": "ابدء الآن"
+	},
+	"699": {
+		"en": "Others",
+		"ar": "أخرى"
+	},
+	"700": {
+		"en": "Vimeo",
+		"ar": "Vimeo"
+	},
+	"701": {
+		"en": "Attach file",
+		"ar": "ارفاق ملف"
+	},
+	"702": {
+		"en": "Edit service",
+		"ar": "تعديل الخدمة"
+	},
+	"703": {
+		"en": "Delete service",
+		"ar": "حذف الخدمة"
+	},
+	"edit_profile": {
+		"en": "Edit Profile",
+		"ar": "تعديل الملف الشخصي"
+	},
+	"704": {
+		"en": "Your profile details updated successfully",
+		"ar": "تم تحديث تفاصيل ملفك الشخصي بنجاح!"
+	},
+	"delivery_address": {
+		"en": "Delivery Address",
+		"ar": "عنوان التوصيل"
+	},
+	"payment_status": {
+		"en": "Payment Status",
+		"ar": "حالة الدفع"
+	},
+	"edit_order": {
+		"en": "Edit Order",
+		"ar": "تعديل الطلب"
+	},
+	"cancel_order": {
+		"en": "Cancel Order",
+		"ar": "إلغاء الطلب"
+	},
+	"remove_from_wishlist": {
+		"en": "Remove From Wishlist",
+		"ar": "حذف من قائمة المفضلة"
+	},
+	"wishlisted_items": {
+		"en": "Wishlisted Items",
+		"ar": "المنتجات المفضلة"
+	},
+	"shopping_cart": {
+		"en": "Shopping Cart",
+		"ar": "عربة التسوق"
+	},
+	"checkout": {
+		"en": "Checkout",
+		"ar": "اكمال عملية الدفع"
+	},
+	"update_cart": {
+		"en": "Update Cart",
+		"ar": "تحديث السلة"
+	},
+	"search": {
+		"en": "Search",
+		"ar": "بحث"
+	},
+	"news": {
+		"en": "News",
+		"ar": "الأخبار"
+	},
+	"latest_news": {
+		"en": "Latest News",
+		"ar": "آخر الأخبار"
+	},
+	"load_more": {
+		"en": "Load More",
+		"ar": "المزيد"
+	},
+	"zoom": {
+		"en": "Zoom",
+		"ar": "تكبير"
+	},
+	"total_projects": {
+		"en": "Total Projects",
+		"ar": "مجموع المشاريع"
+	},
+	"total_albums": {
+		"en": "Total Albums",
+		"ar": "مجموع الألمبومات"
+	},
+	"total_news": {
+		"en": "Total News",
+		"ar": "مجموع الأخبار"
+	},
+	"total_services": {
+		"en": "Total Services",
+		"ar": "مجموع الخدمات"
+	},
+	"total_subscribers": {
+		"en": "Total package plans",
+		"ar": "مجموع الباقات"
+	},
+	"website_page": {
+		"en": "WEBSITE PAGES",
+		"ar": "صفحات الموقع"
+	},
+	"informations": {
+		"en": "INFORMATIONS",
+		"ar": "معلومات الموقع"
+	},
+	"contact_numbers:": {
+		"en": "Contact Numbers:",
+		"ar": "أرقام التواصل:"
+	},
+	"tel:": {
+		"en": "Tel:",
+		"ar": "رقم الجوال:"
+	},
+	"newsletter": {
+		"en": "NEWSLETTER",
+		"ar": "النشرة البريدية"
+	},
+	"newsletter_desc": {
+		"en": "To be updated on our news & promotions, join our mailing list.",
+		"ar": "اشترك في القائمة البريدية ليصلك كل جديد"
+	},
+	"see_all_products": {
+		"en": "See All Products",
+		"ar": "كل المنتجات"
+	},
+	"email_already_subscribed": {
+		"en": "Sorry! the email you provided is already subscribed to our newsletter",
+		"ar": "عفواً البريد المدخل مستخدم ضمن القائمة البريدية"
+	},
+	"submit_your_review": {
+		"en": "Submit your Review",
+		"ar": "ارسال ملاحظاتك"
+	},
+	"submit_review": {
+		"en": "Submit Review",
+		"ar": "ارسال تقييم"
+	},
+	"visit_the_site": {
+		"en": "visit the site",
+		"ar": "زيارة الموقع"
+	},
+	"website_link": {
+		"en": "Website Link",
+		"ar": "رباط الموقع"
+	},
+	"express_checkout": {
+		"en": "Express Checkout",
+		"ar": "إتمام عملية الدفع"
+	},
+	"members_list": {
+		"en": "Members List",
+		"ar": "قائمة الأعضاء"
+	},
+	"add_member": {
+		"en": "Add Member",
+		"ar": "حفظ نفاصيل العضو"
+	},
+	"modify_member": {
+		"en": "Modify Member",
+		"ar": "تعديل تفاصيل العضو"
+	},
+	"members": {
+		"en": "Members",
+		"ar": "الأعضاء"
+	},
+	"change_password": {
+		"en": "Change Password",
+		"ar": "تغيير كلمة المرور"
+	},
+	"email_verified": {
+		"en": "Your email has been verified!",
+		"ar": "تم التحقق من عنوان بريدك"
+	},
+	"Our story": {
+		"en": "Our story",
+		"ar": "قصتنا"
+	},
+	"Branches": {
+		"en": "Branches",
+		"ar": "فروعنا"
+	},
+	"Branches_list": {
+		"en": "Branches List",
+		"ar": "قائمة الفروع"
+	},
+	"filter_Branches": {
+		"en": "Filter Branches",
+		"ar": "البحث المتقدم"
+	},
+	"add_event": {
+		"en": "Save branch details",
+		"ar": "حفظ تفاصيل الفرع"
+	},
+	"add_new_event": {
+		"en": "Add new branch",
+		"ar": "اضافة فرع جديد"
+	},
+	"Branches_pictures": {
+		"en": "Event Pictures",
+		"ar": "صور الفعالية"
+	},
+	"Branches_location": {
+		"en": "Event Location",
+		"ar": "موقع الفعالية"
+	},
+	"Branches_slider": {
+		"en": "Event Slider",
+		"ar": "شرائح عرض الفعالية"
+	},
+	"update_event": {
+		"en": "Update Branch",
+		"ar": "تحديث الفرع"
+	},
+	"event_details": {
+		"en": "Branch Details",
+		"ar": "تفاصيل الفرع"
+	},
+	"event_name": {
+		"en": "Branch Name",
+		"ar": "عنوان الفرع"
+	},
+	"event_desc": {
+		"en": "Event Description",
+		"ar": "وصف الفعالية"
+	},
+	"from_date": {
+		"en": "From Date",
+		"ar": "من تاريخ"
+	},
+	"to_date": {
+		"en": "To Date",
+		"ar": "إلى تاريخ"
+	},
+	"total_days": {
+		"en": "Total Days",
+		"ar": "مجموع الأيام"
+	},
+	"amount_person": {
+		"en": "Entry cost",
+		"ar": "تكلفة الدخول"
+	},
+	"Cities and branches": {
+		"en": "Cities and branches",
+		"ar": "المدن والفروع"
+	},
+	"bookings_list": {
+		"en": "Bookings List",
+		"ar": "قائمة الحجوزات"
+	},
+	"filter_bookings": {
+		"en": "Filter Bookings",
+		"ar": "البحث المتقدم"
+	},
+	"booking_number": {
+		"en": "Booking Number",
+		"ar": "رقم الحجز"
+	},
+	"booking_date": {
+		"en": "Booking Date",
+		"ar": "تاريخ الحجز"
+	},
+	"booking_status": {
+		"en": "Booking Status",
+		"ar": "حالة الحجز"
+	},
+	"type_anything_to_search": {
+		"en": "Type anything to search",
+		"ar": "ادخل عنوان البحث"
+	},
+	"subscribe": {
+		"en": "Subscribe",
+		"ar": "اشتراك"
+	},
+	"Both": {
+		"en": " Male & Female",
+		"ar": "ذكر وأنثى "
+	},
+	"is_free": {
+		"en": "Free",
+		"ar": "مجانية"
+	},
+	"paid": {
+		"en": "Paid",
+		"ar": "مدفوعة"
+	},
+	"event_placeholder":{
+		"en": "eg. Branches activity",
+		"ar": "مثال: دليل الفروع"
+	},
+	"aboutus": {
+		"en": "About us",
+		"ar": "من نحن؟"
+	},
+	"system_error_msg": {
+		"en": "System error occured",
+		"ar": "عفواً لقد حدثت مشكلة ما حاول مرة أخرى"
+	},
+	"booknow": {
+		"en": "Book Now",
+		"ar": "احجز الآن"
+	},
+	"see_all_Branches": {
+		"en": "See All Branches",
+		"ar": "كل الفروع"
+	},
+	"google_analytics": {
+		"en": "Google Analytics",
+		"ar": "Google تحليلات"
+	},
+	"analytics_site_id": {
+		"en": "Analytics ID",
+		"ar": "الكود الخاص"
+	},
+	"email_verified_success": {
+		"en": "Thank you, your email has been verified now please login",
+		"ar": "شكراً لك تم التحقق من بريدك يمكنك الدخول لحسابك الآن"
+	},
+	"placeholder_product_name": {
+		"en": "eg. Sunglasses, Chocolates, Dress..",
+		"ar": "مثال: فستان, شوكولاته, نظارات رجالية.."
+	},
+	"edit_career_title": {
+		"en": "Edit Job",
+		"ar": "تعديل الوظيفة"
+	},
+	"placeholder_price": {
+		"en": "eg. 120",
+		"ar": "مثال: 130"
+	},
+	"placeholder_quantity": {
+		"en": "eg. 50",
+		"ar": "مثال: 50"
+	},
+	"delete_job": {
+		"en": "Delete Job",
+		"ar": "حذف الوظيفة"
+	},
+	"event_title": {
+		"en": "Event Title",
+		"ar": "عنوان الفعالية"
+	},
+	"edit_event": {
+		"en": "Edit event",
+		"ar": "تعديل الفعالية"
+	},
+	"delete_event": {
+		"en": "Delete event",
+		"ar": "حذف الفعالية"
+	},
+	"Delivered": {
+		"en": "Delivered",
+		"ar": "تم التوصيل"
+	},
+	"Returned": {
+		"en": "Returned",
+		"ar": "مسترجعة"
+	},
+	"Approved": {
+		"en": "Approved",
+		"ar": "قبول الطلب"
+	},
+	"Rejected": {
+		"en": "Rejected",
+		"ar": "رفض الطلب"
+	},
+	"news_picture": {
+		"en": "News picture",
+		"ar": "صورة الخبر"
+	},
+	"news_title": {
+		"en": "News title",
+		"ar": "عنوان الخبر"
+	},
+	"edit_news": {
+		"en": "Edit news",
+		"ar": "تعديل الخبر"
+	},
+	"delete_news": {
+		"en": "Delete news",
+		"ar": "حذف الخبر"
+	},
+	"save_news": {
+		"en": "Save news details",
+		"ar": "حفظ تفاصيل الخبر"
+	},
+	"client_logo": {
+		"en": "Logo",
+		"ar": "صورة الشعار"
+	},
+	"edit_client": {
+		"en": "Edit client",
+		"ar": "تعديل العميل"
+	},
+	"delete_client": {
+		"en": "Delete client",
+		"ar": "حذف العميل"
+	},
+	"or": {
+		"en": "Or sent to",
+		"ar": " أو ارسال إلى"
+	},
+	"478": {
+		"en": "Restaurants",
+		"ar": "المطاعم"
+	},
+	"send_email": {
+		"en": "Send email",
+		"ar": "ارسال البريد"
+	},
+	"edit_plan": {
+		"en": "Edit plan",
+		"ar": "تعديل الباقة"
+	},
+	"delete_plan": {
+		"en": "Delete plan",
+		"ar": "حذف الباقة"
+	},
+	"placeholder_plan": {
+		"en": "eg. Advanced, Enterprice, Basic, Free plan..",
+		"ar": "مثال: باقة مميزة, فضية, عادية, مجانية.."
+	},
+	"open": {
+		"en": "Open",
+		"ar": "مفتوح"
+	},
+	"closed": {
+		"en": "Close",
+		"ar": "إغلاق"
+	},
+	"version": {
+		"en": "DP 4.0",
+		"ar": "DP 4.0"
+	},
+	"branches": {
+		"en": "Branches",
+		"ar": "الفروع"
+	},
+	"add_new_branch": {
+		"en": "Add New Branch",
+		"ar": "اضافة فرع جديد"
+	},
+	"branch_name": {
+		"en": "Branch Name",
+		"ar": "اسم الفرع"
+	},
+	"branch_location": {
+		"en": "Branch Location",
+		"ar": "فرع الموقع"
+	},
+	"add_new_ticekt": {
+		"en": "Open a New Ticket",
+		"ar": "فتح تذكرة جديدة"
+	},
+	"push": {
+		"en": "Push Notification",
+		"ar": "رسائل التنبيهات"
+	},
+	"notification": {
+		"en": "Notification",
+		"ar": "التنبيهات"
+	},
+	"album": {
+		"en": "Albums",
+		"ar": "الألبومات"
+	},
+	"top_management": {
+		"en": "Top Management",
+		"ar": "أعضاء مجلس الإدارة"
+	},
+	"position": {
+		"en": "Position",
+		"ar": "الوظيفة"
+	},
+	"manage_list": {
+		"en": "Top Management List",
+		"ar": "قائمة أعضاء مجلس الإدارة"
+	},
+	"add_position": {
+		"en": "Add new position",
+		"ar": "إضافة عضو مجلس إداري"
+	},
+	"update_details": {
+		"en": "Update Details",
+		"ar": "تحديث البيانات"
+	},
+	"ios": {
+		"en": "IOS ",
+		"ar": " تطبيق الآيفون"
+	},
+	"android": {
+		"en": "Android ",
+		"ar": " تطبيق الأندرويد"
+	},
+	"app_link": {
+		"en": "Applications links",
+		"ar": "روابط التطبيقات"
+	},
+	"more_details": {
+		"en": "More details",
+		"ar": "تفاصيل أكثر"
+	},
+	"one_week": {
+		"en": "1 Week",
+		"ar": "اسبوع فقط"
+	},
+	"duration": {
+		"en": "Duration",
+		"ar": "مدة اشتراك الباقة"
+	},
+	"wish-list": {
+		"en": "Wishlist",
+		"ar": "إضافة إلى المفضلة"
+	},
+	"total_portfolio": {
+		"en": "Total portfolio",
+		"ar": "مجموع الأعمال"
+	},
+	"months_plan": {
+		"en": "Months",
+		"ar": "شهور"
+	},
+	"Yearly": {
+		"en": "Yearly",
+		"ar": "سنوية"
+	},
+	"total_cust": {
+		"en": "Total Customers",
+		"ar": "مجموع الأعضاء"
+	},
+	"permission": {
+		"en": "Roles & permissions",
+		"ar": "الصلاحيات"
+	},
+	"Role Name": {
+		"en": "Role Name",
+		"ar": "عنوان الصلاحية"
+	},
+	"add_new_role": {
+		"en": "Add new role",
+		"ar": "اضافة صلاحية جديدة"
+	},
+	"total_appointments": {
+		"en": "Total Appointments",
+		"ar": "مجموع المواعيد"
+	},
+	"TotalSMSSent": {
+		"en": "Total SMS sent",
+		"ar": "مجموع الرسائل المرسلة"
+	},
+	"add_restaurant": {
+		"en": "Add new restaurant",
+		"ar": "اضافة مطعم جديد"
+	},
+	"active": {
+		"en": "Active",
+		"ar": "فعالة"
+	},
+	"inActive": {
+		"en": "In Active",
+		"ar": "معطلة"
+	},
+	"cust_verified_status": {
+		"en": "Verified Status",
+		"ar": "حالة فعالة"
+	},
+	"InProcess": {
+		"en": "In Process",
+		"ar": "تحت التنفيذ"
+	},
+	"ads": {
+		"en": "Custom pages (Ads)",
+		"ar": " صفحات الإعلانات"
+	},
+	"add_new_page": {
+		"en": "Add new page",
+		"ar": "اضافة صفحة جديدة"
+	},
+	"copyAr": {
+		"en": "Copy path (Ar)",
+		"ar": "نسخ الرابط (ع)"
+	},
+	"copyEn": {
+		"en": "Copy path (EN)",
+		"ar": "نسخ الرابط (en)"
+	},
+	"copypath": {
+		"en": "Copy path (EN)",
+		"ar": "نسخ الرابط (ع)"
+	},
+	"discount": {
+		"en": "Discount",
+		"ar": "الخصومات"
+	},
+	"add_discount": {
+		"en": "Add new discount",
+		"ar": "اضافة خصم جديد"
+	},
+	"discount_list": {
+		"en": "Discount List",
+		"ar": "قائمة الخصومات"
+	},
+	"bundle_pack": {
+		"en": "SMS Bundle Package",
+		"ar": "حزمة الرسائل القصيرة"
+	},
+	"remain_sms": {
+		"en": "Total of remaining SMS",
+		"ar": "مجموع الرسائل المتبقية"
+	},
+	"total_tickets": {
+		"en": "Total Tickets",
+		"ar": "مجموع التذاكر"
+	},
+	"7891": {
+		"en": "Promotions",
+		"ar": "الرمز الترويجي"
+	},
+	"Promotions List": {
+		"en": "Promotions List",
+		"ar": "قائمة الترويجات"
+	},
+	"Add New Promotion": {
+		"en": "Add New Promotion",
+		"ar": "اضافة رمز ترويجي جديد"
+	},
+	"Promo Code": {
+		"en": "Promo Code",
+		"ar": "الرمز الترويجي"
+	},
+	"Number Of Use": {
+		"en": "Number Of Use",
+		"ar": "عدد مرات الإستخدام"
+	},
+	"Start Date": {
+		"en": "Start Date",
+		"ar": "تاريخ البدء"
+	},
+	"End Date": {
+		"en": "End Date",
+		"ar": "تاريخ الإنتهاء"
+	},
+	"Discount Value": {
+		"en": "Discount Value",
+		"ar": "قيمة الخصم"
+	},
+	"Apply On": {
+		"en": "Apply On",
+		"ar": "تخصيص لـ"
+	},
+	"Items": {
+		"en": "Sub Total",
+		"ar": "المجموع الفرعي"
+	},
+	"Delivery": {
+		"en": "Delivery",
+		"ar": "التوصيل"
+	},
+	"Both": {
+		"en": "Items & Delivery",
+		"ar": "المنتجات والتوصيل"
+	},
+	"Promo Title": {
+		"en": "Promo Title",
+		"ar": "عنوان الرمز الترويجي"
+	},
+	"Discount Type": {
+		"en": "Discount Type",
+		"ar": "نوع الخصم"
+	},
+	"Add Promotion": {
+		"en": "Add Promotion",
+		"ar": "اضافة رمز توريجي"
+	},
+	"Notes": {
+		"en": "Notes",
+		"ar": "الملاحظات"
+	},
+	"check_code": {
+		"en": "Apply",
+		"ar": "إضافة"
+	},
+	"Use Promocode": {
+		"en": "Use Promo code",
+		"ar": "اضغط هنا لإستخدام الخصم"
+	},
+	"check_promo_placeholder": {
+		"en": "Enter your promo code to check",
+		"ar": "للتأكيد ادخل الرمز الترويجي هنا"
+	},
+	"Promotion Code": {
+		"en": "Promotion Code",
+		"ar": "الرمز الترويجي"
+	},
+	"promoError": {
+		"en": "Sorry! The promo code is not available.",
+		"ar": "عفواً الرمز الترويجي المدخل غير متاح!"
+	},
+	"promoSuccess": {
+		"en": "Congratulations! The promo code is available.",
+		"ar": "تهانينا! لقد حصلت بالفعل على الرمز الترويجي"
+	},
+	"enterPromocode": {
+		"en": "Enter promocode",
+		"ar": "ادخل الرمز"
+	},
+	"pDiscount": {
+		"en": "Discount",
+		"ar": "خصم"
+	},
+	"Applied On": {
+		"en": "Applied On",
+		"ar": "Applied On"
+	},
+	"keys": {
+		"en": "Api Keys",
+		"ar": "ابي كيز"
+	},
+	"add_key": {
+		"en": "Add Key",
+		"ar": "إضافة مفتاح"
+	},
+	"edit_key": {
+		"en": "Edit Key",
+		"ar": "تحرير مفتاح"
+	},
+	"key_type": {
+		"en": "Key Type",
+		"ar": "نوع المفتاح"
+	},
+	"key": {
+		"en": "API KEY",
+		"ar": "API KEY"
+	},
+	"key_name": {
+		"en": "Key Name",
+		"ar": "اسم المفتاح"
+	},
+	"Subscribe_Here": {
+		"en": "Subscribe Here",
+		"ar": "اشتراك الباقة"
+	},
+	"downloads": {
+		"en": "Downloads",
+		"ar": "تحميل"
+	},
+	"download_only": {
+		"en": "Download only",
+		"ar": "تحميل فقط"
+	},
+	"Purchase": {
+		"en": "Purchase",
+		"ar": "شراء"
+	},
+	"Limited_downloads": {
+		"en": "Limited downloads",
+		"ar": "تحميل محدود"
+	},
+	"proceed_to_payment": {
+		"en": "Proceed to payment",
+		"ar": "إكمال عملية الدفع"
+	},
+	"enjoy_feature": {
+		"en": "You can enjoy all features of this plan only after a successful Payment",
+		"ar": "بإمكانك التمتع بجميع الصلاحيات الخاصة بهذه الباقة بعد تأكيد عملية الدفع"
+	},
+	"SMS_Bundle_Not_Found": {
+		"en": "SMS Bundle Not Found",
+		"ar": "لا يوجد خدمة رسائل قصيرة"
+	},
+	"Domain_Not_Found": {
+		"en": "Domain Not Found",
+		"ar": "النطاق غير مسجل"
+	},
+	"Message Count": {
+		"en": "Message Count",
+		"ar": "حاسبة الرسائل"
+	},
+	"Characters Count": {
+		"en": "Characters Count",
+		"ar": "حاسبة الأحرف"
+	},
+	"Rest Characters": {
+		"en": "Rest Characters",
+		"ar": "الأحرف المتبقية"
+	},
+	"Expired_SMS": {
+		"en": "Expired SMS",
+		"ar": "تاريخ انتهاء الخدمة"
+	},
+	"bundle_pack_details": {
+		"en": "Renwal Package details",
+		"ar": "تفاصيل التجديدات"
+	},
+	"credits_history": {
+		"en": "Credits History",
+		"ar": "الاعتمادات التاريخ"
+	},
+	"date": {
+		"en": "Date",
+		"ar": "تاريخ  "
+	},
+	"credits": {
+		"en": "Credits",
+		"ar": "قروض  "
+	},
+	"transaction_type": {
+		"en": "Transactions",
+		"ar": "الحوالات  "
+	},
+	"reason": {
+		"en": "Reason",
+		"ar": "السبب "
+	},
+	"add_credit": {
+		"en": "Add Credit",
+		"ar": "إضافة رصيد  "
+	},
+	"total_envet": {
+		"en": "Total Branches",
+		"ar": "مجموع الفروع"
+	},
+	"sub_title_service": {
+		"en": "We work with you, Not for you",
+		"ar": "نحن نعمل معك, وليس من أجلك"
+	},
+	"middle_name": {
+		"en": "Middle Name",
+		"ar": "إسم الأب"
+	},
+	"view_all": {
+		"en": "View All",
+		"ar": "عرض الجميع"
+	},
+	"add_img": {
+		"en": "Add Image",
+		"ar": "اضافة صورة"
+	},
+	"add_vid": {
+		"en": "Add video",
+		"ar": "اضافة فيديو"
+	},
+	"sub_title_client": {
+		"en": "Clients we proud of",
+		"ar": "عملاء نفخر بهم"
+	},
+	"select_one": {
+		"en": "Select plan",
+		"ar": "اختيار الباقة"
+	},
+	"select_two": {
+		"en": "Customer details",
+		"ar": "معلومات العميل"
+	},
+	"select_three": {
+		"en": "Payment",
+		"ar": "الدفع"
+	},
+	"select_four": {
+		"en": "Confirmation",
+		"ar": "التأكيد"
+	},
+	"": {
+		"en": "",
+		"ar": ""
+	}
+}
