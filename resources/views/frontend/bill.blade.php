@@ -174,7 +174,10 @@
         </section>
 
         @elseif($type == 2)
-        <?php $school = \App\School::find($order->school_id); ?>
+        <?php 
+        $school = \App\School::find($order->school_id); 
+        $package = \App\SchoolPlan::where("name", "=", $order->package_name)->get()->first(); 
+        ?>
         <section>
             <div class="container" style="padding-top: 15px">
                 <div class="row">
@@ -201,21 +204,54 @@
                 <hr>
                 <div class="row">
                     <div class="col-sm-12">
-                        <label>@t('Price'):</label>
-                        <p>{{ $order->package_price }}</p>
+                        <label>@t('Detais'):</label>
+                        <p>{{ $package->description }}</p>
                     </div>
                 </div>
                 <hr>
                 <div class="row">
                     <div class="col-sm-12">
-                        <label>@t('Start'):</label>
+                        <label>@t('Price'):</label>
+                        <p>SAR {{ $order->package_price }}</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label>@t('Shipping Fees'):</label>
+                        <p>SAR {{ $package->shipping_fee }}</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label>@t('Tax'):</label>
+                        <p>SAR {{ $package->tax }}</p>
+                    </div>
+                </div>
+                <hr>
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <?php 
+                            $priceBeforeDisc = ($order->package_price) + $package->tax + $package->shipping_fee;
+                        ?>
+                        <label>@t('Discount'):</label>
+                        <p>SAR&nbsp;<?= $priceBeforeDisc - $order->package_price ?></p>
+                    </div>
+                </div>
+                <hr>
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label>@t('Start') @t('Date'):</label>
                         <p>{{ $order->package_start_date }}</p>
                     </div>
                 </div>
                 <hr>
                 <div class="row">
                     <div class="col-sm-12">
-                        <label>@t('End'):</label>
+                        <label>@t('End') @t('Date'):</label>
                         <p>{{ $order->package_end_date }}</p>
                     </div>
                 </div>
@@ -227,12 +263,19 @@
         <?php 
         $event = \App\Event::find($order->event_id);
         $coach = \App\User::find($order->coach_id);
+        $user = \App\User::find(Auth::user()->id);
          ?>
         <section>
             <div class="container" style="padding-top: 15px">
                 <div class="row">
                     <div class="col-sm-12">
                         <h2>@t('Details')</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label>@t('User'):</label>
+                        <p>{{ $user->name }} {{ $user->last_name }}</p>
                     </div>
                 </div>
                 <hr>
@@ -258,6 +301,35 @@
                         <p>{{ $order->description }}</p>
                     </div>
                 </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label>@t('Price'):</label>
+                        <p>SAR {{ $event->price }}</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label>@t('Location'):</label>
+                        <p>{{ $event->location }}</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label>@t('Classification'):</label>
+                        <p>{{ $event->classification }}</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label>@t('Buy') @t('Date'):</label>
+                        <p>{{ $order->created_at }}</p>
+                    </div>
+                </div>
+                <hr>
             </div>
         </section>
 

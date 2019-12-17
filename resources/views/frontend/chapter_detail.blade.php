@@ -242,7 +242,7 @@ use App\Notification;
                               <?php $allAttachments = json_decode($video->attachments); ?>
                               <?php if ($allAttachments): ?>
                               <?php foreach ($allAttachments as $key => $attch): ?>
-                              <p><a target="_blank" href="\public\storage\{{ $attch->download_link }}">@t('First file')<span class="color-dark-green mr-20 ml-10">{{ substr($attch->original_name, -20) }}</span><i class="fa fa-paperclip"></i></a></p>
+                              <p><a target="_blank" href="\public\storage\{{ $attch->download_link }}"> <span class="color-dark-green mr-20 ml-10">{{ substr($attch->original_name, -20) }}</span><i class="fa fa-paperclip"></i></a></p>
                               <?php endforeach ?>
                               <?php else: ?>
                               <div class="m-0">

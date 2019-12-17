@@ -124,16 +124,18 @@
                                                         @endforeach
                                                     @endif
                                                 </div>
-                                                <?php if ($row->field == "video") : ?>
-                                                    <div class="form-group col-md-12 ">
-                                                        <label class="control-label" for="name">Video</label>
-                                                        <input type="file" class="form-control" name="video"value="">
-                                                    </div>
-                                                <?php elseif ($row->field == "attachment") : ?>
-                                                    <div class="form-group col-md-12 ">
-                                                        <label class="control-label" for="name">Attachment</label>
-                                                        <input type="file" class="form-control" name="attachment"value="">
-                                                    </div>
+                                                <?php if (!$edit) : ?>
+                                                    <?php if ($row->field == "video") : ?>
+                                                        <div class="form-group col-md-12 ">
+                                                            <label class="control-label" for="name">Video</label>
+                                                            <input type="file" class="form-control" name="video"value="">
+                                                        </div>
+                                                    <?php elseif ($row->field == "attachment") : ?>
+                                                        <div class="form-group col-md-12 ">
+                                                            <label class="control-label" for="name">Attachment</label>
+                                                            <input type="file" class="form-control" name="attachment"value="">
+                                                        </div>
+                                                    <?php endif; ?>
                                                 <?php endif; ?>
                                             @endforeach
                                         </div>

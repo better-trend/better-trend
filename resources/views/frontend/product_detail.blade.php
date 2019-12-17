@@ -318,9 +318,6 @@
                    $('.total_price_:eq(1)').text((parseInt($('.actual_price').val()) * parseInt(qty_input)) + tax + shippment);
 
                  } else {
-                  console.log(tax)
-                  console.log(shippment)
-                  console.log(response['discountedPrice'])
                    $('.coupen_error').hide();
                    $('.show-disc').show()
                    $('.discount_').text(parseFloat($('.total_price_:eq(0)').text()) - parseFloat(response['discountedPrice']))

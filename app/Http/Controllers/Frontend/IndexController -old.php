@@ -805,45 +805,55 @@ class IndexController extends Controller
 
             $userID = $userID->id;
 
-            foreach ($allPlans as $key => $plan) {
-                /*if ($plan->id == 26) {*/
-                    $isAvailable[$plan->id] = false;
-                    //Take all schools subscribed to this plan
-                    $subscribedSchool = \App\SchoolPlanSchools::where("plan_id", "=", $plan->id)->get();
-                    if (!$subscribedSchool->isEmpty()) {
-                        foreach ($subscribedSchool as $subSchool) {
-                            //Check if user is subscribed for this plan
-                            $isUserSub = \App\UserSubscription::where(["school_id" => $subSchool->school_id, "user_id" => $userID, 'package_name' => $plan->name])->get();
-                            if (!$isUserSub->isEmpty()) {
-                                //Get packages with higher priority
-                                $higherPackages = \App\SchoolPlan::where("priority", "<", $plan->priority)->get();
-                                if (!$higherPackages->isEmpty()) {
-                                    foreach ($higherPackages as $package) {
-                                        //Check if school is subscribed for the higher package 
-                                        $isSchoolSubscribedInPackage = \App\UserSubscription::where(["school_id" => $subSchool->school_id, "user_id" => $userID, 'package_name' => $plan->name])->get();
-                                        //If school is not subscribed add as available
-                                        if (!$isSchoolSubscribedInPackage->isEmpty()) {
-                                            $isAvailable[$plan->id] = false;
-                                        } else {
+            $isSubscribedSomewhere = UserSubscription::where("user_id", "=", $userID)->count();
+
+            if ($isSubscribedSomewhere) {    
+
+                foreach ($allPlans as $key => $plan) {
+                    /*if ($plan->id == 26) {*/
+                        $isAvailable[$plan->id] = false;
+                        //Take all schools subscribed to this plan
+                        $subscribedSchool = \App\SchoolPlanSchools::where("plan_id", "=", $plan->id)->get();
+                        if (!$subscribedSchool->isEmpty()) {
+                            foreach ($subscribedSchool as $subSchool) {
+                                //Check if user is subscribed for this plan
+                                $isUserSub = \App\UserSubscription::where(["school_id" => $subSchool->school_id, "user_id" => $userID, 'package_name' => $plan->name])->get();
+                                if (!$isUserSub->isEmpty()) {
+                                    //Get packages with higher priority
+                                    $higherPackages = \App\SchoolPlan::where("priority", "<", $plan->priority)->get();
+                                    if (!$higherPackages->isEmpty()) {
+                                        foreach ($higherPackages as $package) {
+                                            //Check if school is subscribed for the higher package 
+                                            $isSchoolSubscribedInPackage = \App\UserSubscription::where(["school_id" => $subSchool->school_id, "user_id" => $userID, 'package_name' => $plan->name])->get();
+                                            //If school is not subscribed add as available
+                                            if (!$isSchoolSubscribedInPackage->isEmpty()) {
+                                                $isAvailable[$plan->id] = false;
+                                            } else {
+                                                $isAvailable[$plan->id] = true;
+                                            }
+                                        }
+                                    }
+                                } else {
+                                    $subscriptions = \App\UserSubscription::where(["school_id" => $subSchool->school_id, "user_id" => $userID])->get();
+                                    foreach ($subscriptions as $sub) {
+                                        $planModel = \App\SchoolPlan::where("name", "=", $sub->package_name)->first();
+                                        if ($plan->priority < $planModel->priority) {
                                             $isAvailable[$plan->id] = true;
+                                        } else {
+                                            $isAvailable[$plan->id] = false;
                                         }
                                     }
                                 }
-                            } else {
-                                $subscriptions = \App\UserSubscription::where(["school_id" => $subSchool->school_id, "user_id" => $userID])->get();
-                                foreach ($subscriptions as $sub) {
-                                    $planModel = \App\SchoolPlan::where("name", "=", $sub->package_name)->first();
-                                    if ($plan->priority < $planModel->priority) {
-                                        $isAvailable[$plan->id] = true;
-                                    } else {
-                                        $isAvailable[$plan->id] = false;
-                                    }
-                                }
                             }
-                        }
-                    }    
-                /*}*/
+                        }    
+                    /*}*/
+                }
+            } else {
+                foreach ($allPlans as $key => $plan) {
+                    $isAvailable[$plan->id] = true;
+                }
             }
+
         } else {
             foreach ($allPlans as $key => $plan) {
                 $isAvailable[$plan->id] = true;

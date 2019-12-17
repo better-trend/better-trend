@@ -171,7 +171,7 @@
                               </div>
                               <div class="row">
                                   <div class="col-sm-2" style="font-size: 18px">@t('Shipment Fees')</div>
-                                  <div class="col-sm-10 text-theme-colored" id="fee-wrapper" style="display: inline-block;font-size: 20px; width: auto"><?= $plan->shipment_fee ?? 0 ?></div>
+                                  <div class="col-sm-10 text-theme-colored" id="fee-wrapper" style="display: inline-block;font-size: 20px; width: auto"><?= $plan->shipping_fee ?? 0 ?></div>
                                   <span style="position: relative;
                                               font-size: 20px;
                                               left: -12px;
@@ -301,13 +301,24 @@
                             </div>
 
                             <div class="col-sm-12 list-group-item d-flex justify-content-between ">
-                                <h6 class="my-0">@t('Price')</h6>
-                                <input type="hidden" name="actual_price" class="actual_price" value="{{ $plan->price}}" />
-                                <span class="form-group text-muted total_price"><strong>$ <span class="total_price_">{{ $plan->price }} </span></strong></span>
-                                <input type="hidden" name="product_price" class="book_price_main" value="{{ $plan->price }}">
-                                <input class="total_price_hidden" name="total_price_hidden" type="hidden" value="{{ $plan->price }}">
-                                <input name="product_native_id" type="hidden" value="{{ $plan->id }}">
-                            </div>
+                              <h3 class="my-0">@t('Price')</h6>
+                              <input type="hidden" name="actual_price" class="actual_price" value="{{ $plan->price}}" />
+                              <span class="form-group text-muted total_price" style="font-size: 15px"><strong>SR <span class="total_price_">{{ $plan->price}} </span></strong></span>
+                              <h3 class="my-0 show-disc" style="display: none">@t('Discount')</h6>
+                              <input type="hidden" style="display: none" name="discount_price" class="discount_price show-disc" value="" />
+                              <span style="display: none" class="show-disc form-group text-muted discount_price" style="font-size: 15px"><strong>SR <span class="discount_">{{ $plan->price}} </span></strong></span>
+                              <h3 class="my-0">@t('Tax')</h6>
+                              <input type="hidden" name="tax_price" class="tax_price" value="{{ $plan->tax}}" />
+                              <span class="form-group text-muted tax" style="font-size: 15px"><strong>SR <span class="tax_">{{ $plan->tax}} </span></strong></span>
+                              <h3 class="my-0">@t('Shipping fee')</h6>
+                              <input type="hidden" name="shipping_price" class="shipping_price" value="{{ $plan->shipping_fee}}" />
+                              <span class="form-group text-muted shipping_fee" style="font-size: 15px"><strong>SR <span class="shipping_fee_">{{ $plan->shipping_fee}} </span></strong></span>
+                              <input type="hidden" name="product_price" class="book_price_main" value="{{ $plan->price }}">
+                              <input class="total_price_hidden" name="total_price_hidden" type="hidden" value="{{ $plan->price + $plan->tax + $plan->shipping_fee }}">
+                              <input name="product_native_id" type="hidden" value="{{ $plan->id }}">
+                              <h3 class="my-0">@t('Total Price')</h6>
+                              <span class="form-group text-muted shipping_fee" style="font-size: 15px"><strong>SR <span class="total_price_">{{ $plan->shipping_fee + $plan->tax + $plan->price }} </span></strong></span>
+                           </div>
                         </div>
                     </div>
                     <div class="modal-footer text-center mb-30">
@@ -332,53 +343,56 @@
       })
 
       $('.apply_code').on('click', function(e) {
-        e.preventDefault();
-        var $this = $('.couponCode'),
-            coupenCode = $this.val() != "" ? $this.val() : $this.eq(1).val(),
-            object_id = $this.attr('data-plan_id'),
-            object_type = '2';
+       e.preventDefault();
+       var $this = $('.couponCode'),
+           coupenCode = $this.val(),
+           user_id = $('.user_id').val(),
+           object_id = $this.attr('data-product_native_id'),
+           object_type = '1',
+           qty_input = $('.qty-input').val(),
+           tax = parseFloat($(".tax_").text()),
+           shippment = parseFloat($(".shipping_fee_").text())
 
-            if (coupenCode != '') {
+           if (coupenCode != '') {
 
-              $('.loader_coupen').show();
+             $('.loader_coupen').show();
 
-              $.ajax({
-                    type: 'POST',
-                    url: '{{ lang_url("coupenCheck") }}',
-                    data: {"_token": "{{ csrf_token() }}", 'object_type':object_type, 'coupenCode':coupenCode, 'object_id':object_id},
-                })
-                .done(function(response) {
-                  $('.loader_coupen').hide();
-                  if (response == '0') {
-                    $('.coupen_error').show();
-                    $('.discount_perc').val('0');
-                    $('.total_price_hidden').val('${{ $price }}');
-                    $('.total_price_').val('${{ $price }}');
-                  } else {
-                    $('.coupen_error').hide();
-                    $('.total_price_hidden').val(response['discountedPrice']);
-                    $('.total_price_').val('$'+response['discountedPrice']);
-                    $('.discount_perc').val(response['discount']);
-                    let dsc = parseFloat($("#price-wrapper").text()) * ( parseInt($('#disc-wrapper').text()) / 100 )
-                    $('#disc-wrapper').text(parseFloat($("#price-wrapper").text()) - parseFloat(dsc))
-                    let t = parseFloat($("#price-wrapper").text()) - parseFloat($("#disc-wrapper").text()) + parseFloat($("#tax-wrapper").text()) + parseFloat($("#fee-wrapper").text())
-                    $('#total-price').text(t)   
-                    $('.total_price_').text(t)
-                    $this.val(coupenCode)
-                    if ($this.eq(1))
-                      $this.eq(1).val(coupenCode)
-                  }
+             $.ajax({
+                   type: 'POST',
+                   url: '{{ lang_url("coupenCheck") }}',
+                   data: {"_token": "{{ csrf_token() }}", 'object_type':object_type, 'user_id':user_id, 'coupenCode':coupenCode, 'object_id':object_id, 'qty_input':qty_input},
+               })
+               .done(function(response) {
+                 $('.loader_coupen').hide();
+                 if (response == '0') {
+                   $('.coupen_error').show();
+                   $('.discount_perc').val('0');
+                   $('.total_price_hidden').val((parseInt($('.actual_price').val()) * parseInt(qty_input)) + tax + shippment);
+                   $('.total_price_:eq(1)').text((parseInt($('.actual_price').val()) * parseInt(qty_input)) + tax + shippment);
 
-                });
-            } else {
-              $('.loader_coupen').hide();
-              $('.coupen_error').hide();
-              $('.discount_perc').val('0');
-              $('.total_price_hidden').val('${{ $price }}');
-              $('.total_price_').val('${{ $price }}');
-            }
+                 } else {
+                   $('.coupen_error').hide();
+                   $('.show-disc').show()
+                   $('.discount_').text(parseFloat($('.total_price_:eq(0)').text()) - parseFloat(response['discountedPrice']))
+                   $('.total_price_hidden').val(parseFloat(response['discountedPrice']) + tax + shippment);
+                   $('.total_price_:eq(1)').text(parseFloat(response['discountedPrice']) + tax + shippment);
+                   $('.discount_perc').val(response['discount']);
+                 }
 
-      });
+               });
+
+
+           } else {
+
+             $('.loader_coupen').hide();
+             $('.coupen_error').hide();
+             $('.discount_perc').val('0');
+             $('.total_price_hidden').val(parseInt($('.actual_price').val()) * parseInt(qty_input));
+             $('.total_price_').text(parseInt($('.actual_price').val()) * parseInt(qty_input));
+
+           }
+
+     });
    });
 </script>
 @endpush

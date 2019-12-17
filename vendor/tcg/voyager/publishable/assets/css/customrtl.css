@@ -1,0 +1,41 @@
+.nav.navbar-nav.top_nav {
+    float: left !important;
+}
+
+.dropdown-menu {
+	display: none !important;
+}
+
+.show>.dropdown-menu {
+    display: block !important;
+}
+
+.dropdown-menu-left {
+    left: 23px !important;
+}
+
+.top_nav .dropdown-menu.dropdown-menu-left form button{
+    float: right;
+    text-align: right;
+}
+
+.top_nav .dropdown-menu.dropdown-menu-left form button i{
+    float: right;
+    margin-left: 9px;
+}
+
+.dropdown-notification .dropdown-menu-header span.notification-tag  {
+    right: 294px !important;
+}
+
+.app-container .content-container .side-menu {
+    width: 52px;
+}
+
+.voyager .navbar.navbar-default .navbar-nav>li, .voyager .navbar .navbar-nav>li {
+     border-left: none; 
+}
+
+.side-menu.sidebar-inverse.ps.ps--theme_default.ps--active-y:hover .ps__scrollbar-y-rail {
+    right: 242px !important;
+}

@@ -448,7 +448,7 @@ $userPassedFlag = false;
                                           } ?>
                                        </td>
                                        <?php if ($key == 0): ?>
-                                       <td><a href="{{ lang_url('chapters/'.$chapter->chapters->id.'/view') }}"><button class="btn btn-default"> @t('View Details')</button></a></td>
+                                       <td><a class="btn btn-default btn-lg blue" href="{{ lang_url('chapters/'.$chapter->chapters->id.'/view') }}"><!-- <button class="btn btn-default"> @t('View Details')</button> -->@t('View Details')</a></td>
                                        <?php else: ?>
                                        <?php
                                           $videoNative = User_access::where([['user_id', Auth::user()->id], ['object_type', 'chapter'], ['object_id', $last_chapter_id], ['status', 'completed']])->first();
@@ -459,7 +459,7 @@ $userPassedFlag = false;
                                           $checkMinPass = Exams::where([['chapter_id', $last_chapter_Native_id], ['status', 'active']])->first(); ?>
                                        <?php if ($checkMinPass): ?>
                                        <?php if ($checkMinPass->min_pass == '0'): ?>
-                                       <td><a href="{{ lang_url('chapters/'.$chapter->chapters->id.'/view') }}"><button class="btn btn-default"> View Details</button></a></td>
+                                       <td><a class="btn btn-default btn-lg blue" href="{{ lang_url('chapters/'.$chapter->chapters->id.'/view') }}"><!-- <button class="btn btn-default"> View Details</button> -->@t('View Details')</a></td>
                                        <?php else: ?>
                                        <?php $userPassed = User_access::where([['user_id', Auth::user()->id], ['object_type', 'test'], ['object_id', $last_chapter_Native_id], ['status', 'Passed']])->first();
                                           ?>
@@ -472,7 +472,7 @@ $userPassedFlag = false;
                                           <?php endif ?>
                                        <?php endif ?>
                                        <?php else: ?>
-                                       <td><a href="{{ lang_url('chapters/'.$chapter->chapters->id.'/view') }}"><button class="btn btn-default">@t('View Details')</button></a></td>
+                                       <td><a class="btn btn-default btn-lg blue" href="{{ lang_url('chapters/'.$chapter->chapters->id.'/view') }}"><!-- <button class="btn btn-default">@t('View Details')</button> -->@t('View Details')</a></td>
                                        <?php endif ?>
                                        <?php else: ?>
                                        <td><button class="btn btn-default" disabled>@t('View Details')</button></td>

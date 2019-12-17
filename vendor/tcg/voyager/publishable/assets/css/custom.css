@@ -1,0 +1,205 @@
+/************************** Header *****************************/
+
+.nav.navbar-nav.top_nav {
+    float: right !important;
+}
+.navbar.navbar-default.navbar-fixed-top.navbar-top {
+	background: #1e9ff2 !important;
+}
+.voyager .navbar.navbar-default .navbar-nav>li, .voyager .navbar .navbar-nav>li {
+    border-left: 1px solid #1e9ff2;
+}
+
+.avatar img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border: 0 none;
+    border-radius: 1000px;
+}
+
+.header-navbar .navbar-container ul.nav li a.dropdown-user-link .avatar {
+    width: 36px;
+    margin-right: .5rem;
+}
+
+.avatar {
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    vertical-align: bottom;
+    white-space: nowrap;
+    border-radius: 1000px;
+}
+
+.dropdown .dropdown-menu a.dropdown-item {
+	display: block;
+    width: 100%;
+    padding: 10px 20px;
+    color: #000;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    text-decoration: none;
+    color: #1e2122;
+    background-color: #f9fafd;
+}
+
+.dropdown.dropdown-user.nav-item a > span, .dropdown.dropdown-notification.nav-item i {
+    color: #fff;
+}
+
+.badge-up {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+}
+
+.logout_bck_btn{
+    color: #337ab7;
+    text-align: left;
+    background: none;
+    border: none;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.logout_bck_btn:hover, .logout_bck_btn:focus {
+    text-decoration: none;
+    color: #1e2122;
+    background-color: #f9fafd;
+}
+/************************** Header *****************************/
+
+
+
+.dropdown-notification i.fa-bell-o{
+    font-size: 18px;
+}
+
+
+
+/******************** Shakeel ********************/
+.voyager .side-menu.sidebar-inverse{
+    background-color: #fff;
+}
+
+.voyager .side-menu .navbar-header {
+    background: #fff !important;
+    border-color: #fff !important;
+}
+.app-container .content-container .side-menu .navbar-header .navbar-brand .logo-icon-container {
+    width: 90px;
+}
+.app-container .content-container .side-menu .navbar-header .navbar-brand img {
+    width: 80px;
+}
+.navbar-nav li.active {
+    background-color: #f5f5f5 !important;
+    border-right: 4px solid #1e9ff2;
+}
+.voyager .side-menu.sidebar-inverse .navbar li>a:hover {
+    background: none !important; 
+    transition: 0.3s;
+    margin-left: 8px;
+}
+
+.app-container .content-container .side-menu .navbar-nav li {
+    background-color: #fff;
+}
+.voyager .side-menu.sidebar-inverse .navbar li>a {
+    color: #dcdcdc;
+}
+.dropdown.dropdown-user.nav-item a.dropdown-toggle span.mr-1 {
+    font-size: 16px;
+    padding: 0px 14px;
+}
+.side-menu .panel.widget {
+    display: none;
+}
+.app-container.expanded .content-container .side-menu .navbar-header .navbar-brand .title {
+    font-weight: 600;
+    color: #464855;
+}
+
+.app-container .content-container .side-menu {
+    /*width: 250px */
+}
+
+.hamburger.btn-link.is-active {
+    padding: 14px 28px 23px 8px !important;
+}
+
+.hamburger.btn-link .hamburger-inner i{
+    color: #fff !important;
+    font-size: 20px;
+}
+.navbar-header button.hamburger span.hamburger-inner::before, .navbar-header button.hamburger span.hamburger-inner::after{
+    content: none;
+}
+.navbar-header button.hamburger span.hamburger-inner{
+    background: none;
+}
+
+
+.side-menu-container .navbar-header .navbar-brand .title {
+    display: inline-block !important;
+}
+
+#adminmenu .navbar-nav li a .title {
+    width: 192px;
+    display: inline-block;
+    color: #464855;
+}
+
+#adminmenu .navbar-nav li.active a .title {
+    font-weight: bold;
+}
+
+.voyager .side-menu.sidebar-inverse .navbar li > a .icon {
+    color: #dcdcdc;
+}
+
+.voyager .side-menu.sidebar-inverse .navbar li.active>a .icon {
+    color: #464855;
+}
+
+.voyager .side-menu.sidebar-inverse {
+    background: #fff;
+
+}
+
+.avatar-online i {
+    background-color: #28d094;
+}
+
+.avatar i {
+    position: absolute;
+    right: -1px;
+    top: 39px;
+    width: 8px;
+    height: 8px;
+    border-radius: 100%;
+}
+
+/******************** Shakeel ********************/
+
+
+/*#adminmenu ul li:nth-child(2), #adminmenu ul li:nth-child(4), #adminmenu ul li:nth-child(5) {
+    display: none;
+}*/
+
+.unread_notification {
+    background: #DDC;
+}
+
+
+.dropdown-notification .dropdown-menu>li>a {
+    margin: 6px 7px !important;
+}
+.dropdown-notification li.scrollable-container.media-list{
+    height: 370px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
